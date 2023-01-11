@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+br {
+  display: block; /* makes it have a width */
+  content: ""; /* clears default height */
+  margin-top: 0; /* change this to whatever height you want it */
+}
+ul {
+  line-height: 2vh;
+  margin: 0px;
+}
