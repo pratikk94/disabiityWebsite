@@ -12,7 +12,7 @@
       "minAge": 3,
       "maxAge": 18,
       "maxFamilyIncome": "",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "minAge": 3,
       "maxAge": 23,
       "maxFamilyIncome": "",
-      "minDisabilityPercentag": ""
+      "minDisabilityPercentage": ""
     },
     {
       "id": 3,
@@ -41,7 +41,7 @@
       "minAge": 14,
       "maxAge": 18,
       "maxFamilyIncome": "",
-      "minDisabilityPercentag": ""
+      "minDisabilityPercentage": ""
     },
     {
       "id": 4,
@@ -55,7 +55,7 @@
       "minAge": 13,
       "maxAge": 19,
       "maxFamilyIncome": "250000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "minAge": 14,
       "maxAge": 100,
       "maxFamilyIncome": "250000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 6,
@@ -83,7 +83,7 @@
       "minAge": 15,
       "maxAge": 100,
       "maxFamilyIncome": "600000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 7,
@@ -97,7 +97,7 @@
       "minAge": 22,
       "maxAge": 100,
       "maxFamilyIncome": "",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 8,
@@ -111,7 +111,7 @@
       "minAge": 20,
       "maxAge": 35,
       "maxFamilyIncome": "600000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
     {
       "id": 9,
@@ -125,7 +125,7 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "",
-      "minDisabilityPercentag": ""
+      "minDisabilityPercentage": ""
     },
     {
       "id": 10,
@@ -139,7 +139,7 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "300000",
-      "minDisabilityPercentag": "not defined"
+      "minDisabilityPercentage": "not defined"
     },
     {
       "id": 12,
@@ -153,9 +153,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "240000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
     },
-
     {
       "id": 12,
       "type": "health",
@@ -168,7 +167,49 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "360000",
-      "minDisabilityPercentag": "40"
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 13,
+      "type": "skill",
+      "heading": "Pradhan Mantri Kaushal Vikas Yojna",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "Free of cost training according to the National Skills Qualification Framework (NSQF), Training in Soft Skills, Entrepreneurship, Financial and Digital Literacy. Duration of the training varies per job role, ranging between 150 and 300 hours. Upon successful completion of their assessment, candidates shall be provided placement assistance by Training Partners (TPs).",
+      "eligibilityRequirement": "<ol><li>Indian national, unemployed youth or, school/college dropouts</li><li>Possesses an Aadhaar card and a bank account</li><li>Has a verifiable alternate ID such as PAN or Voter ID (applicable only for the states of North-East region and J&K - Additional IDs may be added from time to time)</li><li>Any other criteria defined for respective job roles</li><li>In case of corporations or factory premises, candidates cannot be their own employees or daily wagers.</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Ministry of Skill Development and Entrepreneurship<br/>Email - PMKVY@nsdcindia.org<br/>Office of Skill Council for Person with Disability</br>01-City Centre, 12/5 Dwarka, <br/>New Delhi - 110075<br/>Email - info@scpwd.in, <br/>Phone - 011-28085058</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Disability Certificate</li><li>Aadhar card</li><li>Bank account details</li><li>Pan card / voter ID</li></ol>",
+      "minAge": 15,
+      "maxAge": 45,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentage": ""
+    },
+    {
+      "id": 13,
+      "type": "skill",
+      "heading": "Entitlements at Vocational Rehabilitation Center",
+      "timeline": "",
+      "entitlements": "<ol><li>Interviewing adult handicapped persons for knowing their personal, social, family, educational, economic and vocational background causing adjustment problems.</li><li>Evaluation of persons with disabilities to assess their physical efficiencies, measure their psychological strengths and weaknesses</li><li>Assessing the residual capacities, attributes, and functional skills of different categories of handicapped.</li><li>Examination of the handicapped persons by a panel of medical specialists to identify the degree of disability and functional capacities and suggest remedial measures.</li><li>Testing of the handicapped persons on the job capabilities in different trades sanctioned under VRC’s programmes</li><li>Imparting workshop training to develop vocational adjustment in respect of their work habits.</li><li>Providing assistance to physically challenged persons in the Centre for preparing their vocational plan</li><li>Imparting non-formal in-plant training and tailor made module based vocational training to Persons with Disabilities for skill building and making them employable.</li><li>Sponsoring and assisting the handicapped persons to utilize the facilities of reservations against the seats in various educational/training institutions</li><li>Sponsoring the handicapped persons to the employers against vacancies notified to the VRCs and taking follow up action.</li><li>Recommending the handicapped persons for grant of loans by the concerned financial institutions under differential rate of interest or setting up of different ventures under various self-employment scheme</li></ol>",
+      "eligibilityRequirement": "<ol><li>Indian national, unemployed youth or, school/college dropouts</li><li>Possesses an Aadhaar card and a bank account</li><li>Has a verifiable alternate ID such as PAN or Voter ID (applicable only for the states of North-East region and J&K - Additional IDs may be added from time to time)</li><li>Any other criteria defined for respective job roles</li><li>In case of corporations or factory premises, candidates cannot be their own employees or daily wagers.</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Ministry of Labour & Employment Govt. of India,<br/>Shram Shakti Bhawan Rafi Marg, <br/>New Delhi-110001, India <br/>Email- Ea-labour@gov.in, <br/>Phone-23710446</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentage": ""
+    },
+    {
+      "id": 14,
+      "type": "skill",
+      "heading": "National action plan for skill training of PWDs under SIPDA",
+      "timeline": "",
+      "entitlements": "<ol><li>Free skill training through recognised training institutions</li><li>30% reservation for women candidates in each training program</li></ol>",
+      "eligibilityRequirement": "<ol><li>A citizen of India, with not less than 40% disability and having a disability certificate</li><li>Age not less than 15 years and not more than 59 years of age on the last date of receipt of application for the course</li><li>The applicant should not have undergone any other skill training course sponsored by Govt. of India during the period of two years prior to the last date of receipt of application</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Department of Empowerment of Persons with Disabilities<br/>Ministry of Social Justice & Empowerment, Government of India<br/>Address: Paryavaran Bhawan, B-II Block, 5th Floor, <br/>Lodhi Rd, CGO Complex, New Delhi, <br/>Delhi 110003,<br/>Phone- 24369055, <br/>Email :secretaryda-msje@nic.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Disability Certificate/UDID card</li><li>Birth certificate</li><li>Aadhar card</li><li>Voter ID card</li><li>Ration card</li></ol>",
+      "minAge": 15,
+      "maxAge": 59,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentage": ""
     }
   ]
 }

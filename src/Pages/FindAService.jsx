@@ -54,6 +54,16 @@ function FindAService() {
   };
 
   const onChangeSkill = () => {
+    if (!isSkill) {
+      selectedType.push("skill");
+      setSelectedType(selectedType);
+    } else {
+      const index = selectedType.indexOf("skill");
+      if (index > -1) {
+        selectedType.splice(index, 1);
+      }
+      setSelectedType(selectedType);
+    }
     setIsSkill(!isSkill);
   };
   // React Checkboxes onChange Methods
