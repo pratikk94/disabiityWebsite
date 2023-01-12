@@ -6,8 +6,8 @@ export default function Heading({ title }) {
       style={{
         backgroundColor: "#F2F2F2",
         marginTop: "-8vh",
-        width: "100%",
-        height: "18vh",
+        width: "75%",
+        height: "12vh",
         float: "bottom",
         position: "relative",
       }}

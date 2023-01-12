@@ -1,78 +1,159 @@
 {
-  "type": "educational",
   "schemes": [
     {
       "id": 1,
+      "type": "educational",
       "heading": "3% reservation for CWSN to study in private school at Government expenses popularly called EWS/ DG quota. ",
       "timeline": "The online application will be available at the beginning of the academic year, generally in March/April.Specific details are available at <a href='http://edustud.nic.in/mis/studentadmission'>link</a> which will be avialable in",
       "entitlements": "<ol><li>3% reservation for Persons with Disabilities among Economically  Weaker Sections/Disadvantaged Group in private schools</li><li>Free books,uniforms and writing material to be provided by the  school.</li><li>Facility of a special educator</li>    </ol>",
       "eligibilityRequirement": "<ol><li>40% or more disability in 21 conditions as defined by Rights of Persons with Disabilities Act, 2016</li><li>Minimum age of the child for admission in nursery/pre-school is  3 years, for KG/pre-primary is 4 years and for Class- I is 5  years</li>    </ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "<ol><li>Compconsted application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>"
+      "documentRequired": "<ol><li>Compconsted application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>",
+      "minAge": 3,
+      "maxAge": 18,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentag": "40"
     },
     {
       "id": 2,
+      "type": "educational",
       "heading": "Entitlements for learning and wellbeing of Children with Special Needs in Delhi government schools",
       "timeline": "Not defined",
       "entitlements": "<ol><li>Admission in the neighbourhood school. Admission throughout the year and no rejection policy in admission</li><li>Age relaxation up to 4 years in upper age provided to Children with Disabilities (CwDs hereafter) for admission<li>Free Braille books to Children with Visual Impairmentv<li>Scribe facility to Children with Visual Impairment</li><li>Annual medical assessment camp for identification and assessment of physical and intellectual disabilities and counselling for parents of CWSN and distribution of free aids and appliances</li></ol>",
       "eligibilityRequirement": "Children with Disabilities studying from Pre-School to Class XII in Schools of MCD, MCD Aided, NDMC, NDMC Aided, and DCB, Govt. & Govt. Aided Schools of Directorate of Education",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
       "documentRequired": "Disability certificate",
-      "financialAssistance": "The concerned head of the school after receipt of funds in the Samagra Shiksha Bank Account of the school shall ensure that the allowances are paid. The allowances shall be paid through Electronic Clearing System or by Cheque in the name of the student. <ol><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li><ol>"
+      "financialAssistance": "The concerned head of the school after receipt of funds in the Samagra Shiksha Bank Account of the school shall ensure that the allowances are paid. The allowances shall be paid through Electronic Clearing System or by Cheque in the name of the student. <ol><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li><ol>",
+      "minAge": 3,
+      "maxAge": 23,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentag": ""
     },
     {
       "id": 3,
+      "type": "educational",
       "heading": "CBSE concessions and provisions for Children with Special Needs",
       "timeline": "<ol><li>Schools will inform to the PWD candidates about exemptions/concessions extended by CBSE during annual examinations; Schools will make a list of PWD students after submitting LOC: At the beginning of the academic session.</li><li>Students/Parents will make the request to their School for seeking exemptions/concessions during annual examinations alongwith required Certificates/Documents: Upto 7th July of the academic year</li><li>Schools will compile all such requests in tabular form with required Certificates/Documents. Only one request will be sent by each school to the Regional Office for necessary approvals: 07 days from the date of activity of S.No.2 i.e. by 15th July</li><li>Regional Office will communicate deficiency, if any, to the schools: 21days from the date of activity of S.No.3 i.e. by 05th August</li><li>Schools will communicate fulfilment of deficiency to Regional Office: 10 days from the date of activity of S.No.4 i.e. by 15th August</li><li>Regional Office will communicate approval to the schools: 10 days from the date of activity of S.No.5 i.e. by 25th August</li><li>School will communicate approval of the CBSE to the students: 05 days from the date of activity of S.No.6 i.e. by 30th August</li></ol>",
       "entitlements": "<ol><li>Admission in the neighbourhood school. Admission throughout the year and no rejection policy in admission</li><li>Age relaxation up to 4 years in upper age provided to Children with Disabilities (CwDs hereafter) for admission<li>Enrolment drive for out-of-school CwDs to create awareness and facilitating enrolment of CwDs in schools</li><li>Awareness/Counselling programs for parents and other community members to facilitate the all-around development of CwDs</li><li>Environment Building Program to create a positive attitude towards CwDs</li><li>District level & State Level Celebration of International Day of Persons with Disabilities (3 December) wherein CwDs from all schools participate and get awarded</li><li>In-service training of class teachers and subject teachers on important aspects of special education such as disability awareness & orientation, the concept of inclusion, classroom handling of CWSN, etc. in collaboration with specialised agencies</li><li>Orientation of Educational Administrators, Principals and other stakeholders for the effective management of inclusive education in collaboration with specialised agencies</li><li>Free Braille books to Children with Visual Impairmentv<li>Scribe facility to Children with Visual Impairment</li><li>Sports facilities in each school and district</li><li>Services of Ayah/Attendant/Helper provided to students with severe disabilities</li><li>Resource Room at school level with infrastructural facilities, latest ICT products/software, aids & appliances, adapted teaching-learning materials, adapted furniture, etc. for Individualised sessions & multi-sensorial learning of CwDs by TGT/PGT-SETs/Resource Persons (CWSN)</li><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li></ol>",
       "eligibilityRequirement": "Child must be a student of class X/XII under CBSE, or of class I-XII in schools under Directorate of Education, Govt of NCT of Delhi",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "Disability certificate"
+      "documentRequired": "Disability certificate",
+      "minAge": 14,
+      "maxAge": 18,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentag": ""
     },
     {
       "id": 4,
+      "type": "educational",
       "heading": "Pre- Matric Scholarship for PWD",
       "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "Pre-Matric Scholarship is to support students with disabilities for their study in classes IX and X onwards so that the incidence of drop-out, especially in the transition from the elementary to the secondary stage is minimized.",
       "eligibilityRequirement": "<ol><li>Full-time student of class IX or class X in a government recognised school.</li><li>40% or more disability</li><li>Family income not more than Rs 2,50,000 per annum</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "<ol><li>Photo of the applicant</li><li>Certificate of previous academic mark sheet</li><li>Fee receipt of current course year</li><li>Age proof certificate</li><li>Income certificate of the family</li><li>Bank account details</li><li>Disability certificate</li><ol>"
+      "documentRequired": "<ol><li>Photo of the applicant</li><li>Certificate of previous academic mark sheet</li><li>Fee receipt of current course year</li><li>Age proof certificate</li><li>Income certificate of the family</li><li>Bank account details</li><li>Disability certificate</li><ol>",
+      "minAge": 13,
+      "maxAge": 19,
+      "maxFamilyIncome": "250000",
+      "minDisabilityPercentag": "40"
     },
     {
       "id": 5,
+      "type": "educational",
       "heading": "Post Matric Scholarship for PWD",
       "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "Post-Matric Scholarship is to support students with disabilities for their study in classes XI and XII onwards so that the incidence of drop-out, especially in the transition from the secondary to the higher secondary stage is minimized.",
       "eligibilityRequirement": "<ol><li>Students studying in all recognised post-matriculation courses. Courses at the level of undergraduate, postgraduate degree/diploma/ certificate are also covered under this scheme</li><li>40% or more disability</li><li>Family income not more than Rs 2,50,000 per annum</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "<ol><li>Photo of the applicant</li><li>Certificate of previous academic mark sheet</li><li>Fee receipt of current course year</li><li>Age proof certificate</li><li>Income certificate of the family</li><li>Bank account details</li><li>Disability certificate</li><ol>"
+      "documentRequired": "<ol><li>Photo of the applicant</li><li>Certificate of previous academic mark sheet</li><li>Fee receipt of current course year</li><li>Age proof certificate</li><li>Income certificate of the family</li><li>Bank account details</li><li>Disability certificate</li><ol>",
+      "minAge": 14,
+      "maxAge": 100,
+      "maxFamilyIncome": "250000",
+      "minDisabilityPercentag": "40"
     },
     {
       "id": 6,
+      "type": "educational",
       "heading": "Top Class Education",
       "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "The Scholarship for Top Class Education aims at recognizing and promoting quality education amongst students with disabilities by providing full financial support. It covers students with disabilities (SwDs) for pursuing studies at the level of graduate and post-graduate degree or diploma in notified institutes (List attached here) of excellence in education identified by DEPwD.",
       "eligibilityRequirement": "<ol><li>Be pursuing studies at graduate/postgraduate degree/diploma level in notified institutions of excellence in education</li><li>40% or more disability</li><li>Annual family income of less than Rs 6,00,000 per annum.<li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "<ol><li>Photograph<li>proof of age, disability certificate, income certificate of the parent, tuition fees receipt, last academic qualification certificate, etc. duly filled in the prescribed.pdf format</li><ol>"
+      "documentRequired": "<ol><li>Photograph<li>proof of age, disability certificate, income certificate of the parent, tuition fees receipt, last academic qualification certificate, etc. duly filled in the prescribed.pdf format</li><ol>",
+      "minAge": 15,
+      "maxAge": 100,
+      "maxFamilyIncome": "600000",
+      "minDisabilityPercentag": "40"
     },
     {
       "id": 7,
+      "type": "educational",
       "heading": "National Fellowship for PWD",
       "timeline": "Not defined",
       "entitlements": "The National Fellowship for PWD aims to provide financial assistance to the students with disabilities for pursuing higher education leading to degrees such as M.Phil and Ph.D in India.",
       "eligibilityRequirement": "<ol><li>Any student with 40% or more disability</li><li>Admitted to full-time M.Phil./Ph.D. degree in a recognized university and programme</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "Not defined"
+      "documentRequired": "Not defined",
+      "minAge": 22,
+      "maxAge": 100,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentag": "40"
     },
     {
       "id": 8,
+      "type": "educational",
       "heading": "National Overseas Scholarship for PWD",
       "timeline": "Not defined",
       "entitlements": "The National Overseas Scholarship for PWD aims to provides financial assistance to the students with disabilities who are selected for pursuing Master's level courses and Ph.D abroad in the following specified fields of study: <ol><li>Engineering & Management</li><li>Pure Sciences and Applied Sciences</li><li>Agricultural Science & Medicine</li><li>Commerce, Accounting and Finance and</li><li>Humanities, Social Science including Law & Fine Arts.</li></ol>",
       "eligibilityRequirement": "<ol><li>Any student with 40% or more disability</li><li>Admitted to full-time M.Phil./Ph.D. degree in a recognized university and programme</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
-      "documentRequired": "Not defined"
+      "documentRequired": "Not defined",
+      "minAge": 20,
+      "maxAge": 35,
+      "maxFamilyIncome": "600000",
+      "minDisabilityPercentag": "40"
+    },
+    {
+      "id": 9,
+      "type": "health",
+      "heading": "Delhi Aarogya Kosh",
+      "timeline": "Applications are accepted on a rolling basis.",
+      "entitlements": "Financial assistance upto Rs 5,00,000 to patients for treatment of any illness/disease in government hospitals run by Delhi government or central government or local bodies or autonomous hospitals under the state government",
+      "eligibilityRequirement": "<ol><li>Annual family income upto Rs 3,00,000</li><li>Bonafide resident of Delhi for the last 3 years (prior to the date of submission of application).</li><li>Requiring treatment for any illness/disease in a government hospital run by Delhi govt./central govt./AIIMS/autonomous institutes of the state govt./ local bodies.</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
+      "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li><li>Any one of the following documents for verification of bonafide residency for the last 3 years:<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li></li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "",
+      "minDisabilityPercentag": ""
+    },
+    {
+      "id": 10,
+      "type": "health",
+      "heading": "Delhi Aarogya Nidhi",
+      "timeline": "Applications are accepted on a rolling basis.",
+      "entitlements": "Financial assistance upto Rs 1,50,000 to patients for treatment of diseases in Government hospitals only",
+      "eligibilityRequirement": "<ol><li>Annual family income upto Rs 1,00,000</li><li>Bonafide resident of Delhi for the last 3 years (prior to the date of submission of application)</li><li>Treatment should be from a government hospital in Delhi</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
+      "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li>Any one of the following documents for verification of bonafide residency for the last 3 years<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "300000",
+      "minDisabilityPercentag": "not defined"
+    },
+    {
+      "id": 12,
+      "type": "health",
+      "heading": "Cochlear implant surgery under ADIP",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "100% subsidy for income less than Rs 15,000/- per month OR 50% subsidy for income between Rs 15,000 to Rs 20,000 per month for Cochlear implant surgery",
+      "eligibilityRequirement": "<ol><li>Child must be an Indian Citizen with a family income of less than Rs 20,000 per month</li><li>Child with congenital deafness (since birth) upto 5 years as on 31st December in the current year OR upto 12 years for child with post-lingual deafness</li><li>Child should have used suitable hearing aid for at least 3 months with no significant improvement in speech and language development</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
+      "documentRequired": "<ol><li>Birth Certificate of the child</li><li>Caste Certificate of the Father if applicable</li><li>Income certificate of family including both parents /caregivers</li><li>Hearing disability certificate and evaluation reports (Audiogram/ABR/IA/OAE/Other)</li><li>Speech & Language Evaluation Report, Psychological Evaluation Report</li><li>Medical evaluation report (ENT/Neurologist/Pediatrician/Registered Medical Professional)</li><li>Radiological evaluation ( Printed report of CT/MRI)</li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "360000",
+      "minDisabilityPercentag": "40"
     }
   ]
 }

@@ -20,12 +20,32 @@ function FindAService() {
   const [selectedType, setSelectedType] = useState([]);
   // React Checkboxes onChange Methods
   const onChangeEducation = () => {
+    if (!isEducation) {
+      selectedType.push("educational");
+      setSelectedType(selectedType);
+    } else {
+      const index = selectedType.indexOf("educational");
+      if (index > -1) {
+        selectedType.splice(index, 1);
+      }
+      setSelectedType(selectedType);
+    }
     setIsEducation(!isEducation);
   };
   const onChangeFinancial = () => {
     setIsFinancial(!isFinancial);
   };
   const onChangeHealth = () => {
+    if (!isHealth) {
+      selectedType.push("health");
+      setSelectedType(selectedType);
+    } else {
+      const index = selectedType.indexOf("health");
+      if (index > -1) {
+        selectedType.splice(index, 1);
+      }
+      setSelectedType(selectedType);
+    }
     setIsHealth(!isHealth);
   };
 
@@ -62,17 +82,7 @@ function FindAService() {
   // Submit
   const OnSubmit = (e) => {
     e.preventDefault();
-    if (isEducation) {
-      selectedType.push("educational");
-      setSelectedType(selectedType);
-    } else {
-      const index = selectedType.indexOf("educational");
-      if (index > -1) {
-        selectedType.splice(index, 1);
-      }
-      setSelectedType(selectedType);
-      //console.log(selectedType);
-    }
+
     getData();
   };
 
@@ -555,7 +565,7 @@ function FindAService() {
             </button>
           </div>
         </form>
-        <Scheme rawJsonData={jsonData} selectdType={selectedType} />
+        <Scheme rawJsonData={jsonData} selectedType={selectedType} />
       </center>
     </div>
   );
