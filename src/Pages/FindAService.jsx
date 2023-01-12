@@ -6,7 +6,7 @@ import { regular } from "../Responsive/constants";
 
 function FindAService() {
   const [isEducation, setIsEducation] = useState(false);
-  const [isFinancial, setIsFinancial] = useState(false);
+  const [isSocial, setIsSocial] = useState(false);
   const [isHealth, setIsHealth] = useState(false);
   const [isTravel, setIsTravel] = useState(false);
   const [isSkill, setIsSkill] = useState(false);
@@ -32,8 +32,18 @@ function FindAService() {
     }
     setIsEducation(!isEducation);
   };
-  const onChangeFinancial = () => {
-    setIsFinancial(!isFinancial);
+  const onChangeSocial = () => {
+    if (!isSocial) {
+      selectedType.push("social");
+      setSelectedType(selectedType);
+    } else {
+      const index = selectedType.indexOf("social");
+      if (index > -1) {
+        selectedType.splice(index, 1);
+      }
+      setSelectedType(selectedType);
+    }
+    setIsSocial(!isSocial);
   };
   const onChangeHealth = () => {
     if (!isHealth) {
@@ -50,6 +60,16 @@ function FindAService() {
   };
 
   const onChangeTravel = () => {
+    if (!isTravel) {
+      selectedType.push("travel");
+      setSelectedType(selectedType);
+    } else {
+      const index = selectedType.indexOf("travel");
+      if (index > -1) {
+        selectedType.splice(index, 1);
+      }
+      setSelectedType(selectedType);
+    }
     setIsTravel(!isTravel);
   };
 
@@ -246,13 +266,13 @@ function FindAService() {
               className="form-check"
               style={{
                 width: "18%",
-                background: isFinancial ? activeColor : inActiveColor,
+                background: isSocial ? activeColor : inActiveColor,
                 borderRadius: "0.5%",
                 float: "left",
                 marginLeft: "2%",
                 marginTop: "2%",
                 border:
-                  "0.3% solid " + (isFinancial ? activeColor : inActiveColor),
+                  "0.3% solid " + (isSocial ? activeColor : inActiveColor),
                 padding: "1%",
               }}
             >
@@ -262,14 +282,14 @@ function FindAService() {
                   style={{
                     display: "none",
                   }}
-                  checked={isFinancial}
-                  onChange={onChangeFinancial}
+                  checked={isSocial}
+                  onChange={onChangeSocial}
                   className="form-check-input"
                 />
                 <p
                   style={{ fontSize: regular.fontSizeText, display: "inline" }}
                 >
-                  Financial
+                  Social
                 </p>
               </label>
             </span>

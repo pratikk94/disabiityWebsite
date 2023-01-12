@@ -142,7 +142,7 @@
       "minDisabilityPercentage": "not defined"
     },
     {
-      "id": 12,
+      "id": 11,
       "type": "health",
       "heading": "Cochlear implant surgery under ADIP",
       "timeline": "Applications are accepted on a rolling basis",
@@ -184,7 +184,7 @@
       "minDisabilityPercentage": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "type": "skill",
       "heading": "Entitlements at Vocational Rehabilitation Center",
       "timeline": "",
@@ -198,7 +198,7 @@
       "minDisabilityPercentage": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "type": "skill",
       "heading": "National action plan for skill training of PWDs under SIPDA",
       "timeline": "",
@@ -210,6 +210,118 @@
       "maxAge": 59,
       "maxFamilyIncome": "",
       "minDisabilityPercentage": ""
+    },
+    {
+      "id": 16,
+      "type": "social",
+      "heading": "Disability pension scheme",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "Financial assistance of Rs 2500 per month.",
+      "eligibilityRequirement": "<ol><li>Person with 40% or more disability of any age</li><li>Family income less than Rs. 1,00,000/- per annum.</li><li>Resident of NCT of Delhi for minimum 5 years preceding the date of submission of application.</li><li>Should have a 'single-operated' account in any Bank or Post Office for receiving the payment through electronic clearing system</li><li>Must not be receiving any pension/financial assistance from any other government bodies or any other source for this purpose</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Director of Social Welfare,<br/>Department of Social Welfare, <br/>Govt. of NCT of Delhi,GLNS Complex, Delhi Gate <br/>New Delhi - 110 001<br/>Phone no:23314810, Fax:23714826, <br/>Email -dsw@nic.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Adhar card is mandatory</li><li>Age proof (As in the 10th Marksheet or any other ID issued by the government)</li><li>Residence proof (Aadhar Card would be best)</li><li>Bank account number (Single account)</li><li>Disability Certificate issued by a Govt. Hospital</li><li>One passport size photo of the applicant</li><li>Income self-declaration in the format given on the portal at the following <a href='https://edistrict.delhigovt.nic.in/Downloads/ApplicationForm/SelfDeclaration_Social_Income.pdf'>link</a></li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "100000",
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 17,
+      "type": "social",
+      "heading": "Divyangjan Swalambhan Yojna",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "To provide concessional credit for the benefit of the persons with disabilities (Disability as defined in PwD Act, 2016 or its amendments)Loans can be used for:<ol><li>Starting any activity contributing directly or indirectly in the income generation or helping PwD in their overall process of empowerment. Pursuing higher education after class 12th (UG, PG, Professional courses and other courses approved by UGC/AICTE/ICAR/Government etc.)</li><li>Pursuing vocational or skill development (ITI, Diploma any other course leading to enhancement of employment or self-employment)</li><li>Purchase and/or fitment of any assistive device(s)/customization/retrofitting or conversion of available machine, equipment, vehicle to disabled-friendly mode.</li><li>The upper limit to extend concessional credit through various National Handicapped Finance and Development schemes would be Rs.50.0 lakhs per beneficiary/unit. The actual loan amount within the upper limit of Rs.50.0 lakhs shall be determined by implementing agencies based on the needs of the activity/project being funded as well as repaying capacity of the borrower within the maximum repayment period.</li></ol>",
+      "eligibilityRequirement": "<ol><li>Any Indian citizen above 18 years of age with 40% or more disability</li><li>For persons with mental retardation, the eligible age would be above 14 years</li><li>Age criteria would not be required for educational loans</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Phd House, <br/>Iii Floor,4/2 August Kranti Marg, Block A, <br/>Nipccd Campus, Hauz Khas, <br/>New Delhi, 11001, <br/>Phone: 011 4580 3730, <br/>Email- phdcci@phdcci.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Disability Certificate</li><li>Age certificate issued by competent authority authorized by the State Government or as mentioned in the 10th certificate or any other certificate issued by the government would be the required document. (Aadhar Card would be best)</li></ol>",
+      "minAge": 14,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 18,
+      "type": "social",
+      "heading": "Income Tax Rebate for People With Disabilities under Section 80 U",
+      "timeline": "As per the Income Tax Act, a person is required to file his/her return in the relevant assessment year by July 31 (unless deadline extended) to claim the refund. The fiscal year immediately succeeding a financial year is the relevant assessment year (AY) for that fiscal year",
+      "entitlements": "<ol><li>A Rs. 75,000 deduction is allowed for people with 40% disability.</li><li>Rs. 1,25,000 deduction is allowed for people with 80 % severe disability.</li></ol>",
+      "eligibilityRequirement": "Any Indian citizen above 18 years of age with 40% or more disability",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Commissioner of Income Tax (Helpline), 23378047 (Tele Fax), <br/>R. No. 210, C. R. Building, I. P. Estate, <br/>New Delhi.<br/>Email:delhi.pccit.neac@incometax.gov.in><br/></li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Disability Certificate</li><li>Income Certificate according to Section 139 for the pertinent year of assessment. Download here</ol>",
+      "minAge": 18,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 19,
+      "type": "social",
+      "heading": "Income Tax Rebate for Individuals who have Disabled Dependants under Section 80 DD",
+      "timeline": "As per the Income Tax Act, a person is required to file his/her return in the relevant assessment year by July 31 (unless deadline extended) to claim the refund. The FY immediately succeeding a financial year is the relevant assessment year (AY) for that FY.",
+      "entitlements": "<ol><li>Dependent person with disability – A dependent person with disability is one who has at least 40% of any of the specified disabilities. The family member who takes care of the medical charges of the dependent person with disability can claim tax deduction of up to Rs. 75,000.</li><li>Dependent person with severe disability – A dependent person with severe disability is one who has at least 80% of any disability. The family member handling the medical expenses of a dependent person with severe disability can claim tax deduction of up to Rs. 1,25,000.</li></ol>",
+      "eligibilityRequirement": "<ol><li>Any person who is a part of the Hindu Undivided Family (HUF) and has a disabled person as a dependent can claim this deduction.</li><li>The taxpayer has borne expenses for medical treatment and training & rehabilitation of the dependent with disability or the taxpayer has paid premium for a specific insurance policy designed for such cases.</li><li>The taxpayer cannot claim this deduction if the dependant has already claimed deduction under Section 80U for himself or herself.</li><li>The disabled individual is wholly or to a large extent dependent on the taxpayer for their support.</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Commissioner of Income Tax (Helpline), 23378047 (Tele Fax), <br/>R. No. 210, C. R. Building, I. P. Estate, <br/>New Delhi.<br/>Email:delhi.pccit.neac@incometax.gov.in><br/></li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol><li>Disability Certificate</li><li>Income Certificate according to Section 139 for the pertinent year of assessment. Download here</ol>",
+      "minAge": 18,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 20,
+      "type": "travel",
+      "heading": "Concessions for travel by DTC buses",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "<ol><li>i. Facility of free travelling in DTC Buses</li><li>ii. The facility of 50% concession to the escort for those who have 100% disability</li></ol>",
+      "eligibilityRequirement": "Applicant should have 40% and above disability and be a resident of Delhi",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:DELHI TRANSPORT CORPORATION (HQ) (Govt. of NCT of Delhi) I.P. Estate: <br/>New Delhi-110002;<br/>Phone - 23370236;<br/>Email - bus-pass@dtc.nic.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "<ol>Card issued by Sub Divisional Magistrate (SDM) at the district magistrate office. Form placed here<li>Residential proof</li><li>Passport size photograph</li><li>Copy of Disability certificate</li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40"
+    },
+    {
+      "id": 21,
+      "type": "travel",
+      "heading": "Quota and concessions in Indian railways",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "For PWD Reservation<ol><li>A reservation quota of two sleeper class berths in all trains running on non-suburban sections for handicapped persons with handicapped concession tickets. The escort is also allotted the berth out of this quota.</li><li>In sub-urban trains, separate accommodation for handicapped persons has been earmarked.</li></ol>Fare Concessions<ol><li>Orthopedically Handicapped / Paraplegic, Intellectually Disabled persons, Blind persons travelling for any purpose.<ul><li>75% in Second, Sleeper, First, AC Chair Car and AC 3 tier.</li><li>50% in First Class and AC 2 tier</li><li>25% in AC 3 tier & AC Chair Car of Rajdhani / Shatabdi trains.</li><li>50% in Monthly Season Ticket & Quarterly Season Ticket.</li><li>One escort is also eligible for the same element of concession.</li></ul></li><li>For Deaf & Dumb persons (both afflictions together in the same person) traveling for any purpose.<ul><li>50% in Second class, Sleeper, First class</li><li>50% in Monthly Season Ticket & Quarterly Season Ticket.</li><li>One escort is also eligible for same element of concession</li></li></ol>For Patients<ol><li>Thalassemia patients traveling for treatment/periodic check-up<ul><li>75% in Second, Sleeper, First, AC Chair Car and AC 3 tier</li><li>50% in 1AC & 2AC</li><li>One escort is also eligible for same element of concession</li></ul></li><li>Haemophilia Patients - severe & moderate form of disease for treatment/periodical check-up.<ul><li>75% in 2nd class, Sleeper, 1st class, 3AC, AC chair car</li><li>One escort is also eligible for same element of concession</li></ul></li><li>For Non-infectious Leprosy patients - for treatment/periodic checkup<ul><li>75% in 2nd class, Sleeper, 1st class</li><li>One escort is also eligible for same element of concession</li></ul></li><li>Sickle Cell Anaemia patients travelling for treatment/periodical check-up to recognized hospitals by Mail/Express Trains.<ul><li>50% in basic fares of Sleeper, AC-2-tier, 3AC, AC chair car classes.</li></ul></li></ol>",
+      "eligibilityRequirement": "For PWD<ol><li>Orthopedically Handicapped/Paraplegic persons travelling alone or with an escort for any purpose</li><li>Persons with severe intellectual disability who are travelling alone or with escort for any purpose</li><li>Blind persons travelling alone or with an escort for any purpose</li><li>Deaf & Dumb persons (both afflictions together in the same person) traveling alone or with an escort for any purpose</li></ol>For Patients<ol><li>Thalassemia patients traveling alone or with an escort for treatment/periodic check-up</li><li>Haemophilia Patients - severe & moderate form of disease - travelling alone or with an escort for treatment/periodical check-up</li><li>Non-infectious Leprosy patients for treatment/periodic checkup</li><li>Patients suffering from Sickle Cell Anaemia travelling for treatment/periodical check-up to recognized hospitals by Mail/Express Trains</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:INDIAN RAILWAYS<br/>Address : Federation of Railway Officers Association Office, <br/>256-A, Rail Bhavan, Raisina Road, <br/>New Delhi -11000<br/>Phone: (Rly) 43468 (P&T) 23389155; <br/>Email - secyfroa@gmail.com<br/><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "For PWD <br/>Offline<ol><li>ID proof</li><li>Concessional certificate (Attached here)</li></ol>Online<ol><li>Railway concession card</li><li>Documents for obtaining railway ID card -</li><li>Concession Certificate or Unique Disability ID (UDID) Card</li><li>Photo Identity Proof (e.g. Aadhaar Card)</li><li>Date of Birth Proof (Any government issued ID)</li><li>Address Proof (Any government issued ID)</li><li>Passport size color photo</li><li>Attested photocopies of these documents</li></ol>For PatientsOffline<ol><li>Duly filled form for outward and return journey</li><li>ID proof</li></ol>",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0"
+    },
+    {
+      "id": 22,
+      "type": "travel",
+      "heading": "Entitlement for blind persons in Air India Airlines",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "<ol><li>50% concessional fare to blind persons on single journey or single fare for round trip journeys on all domestic flights.</li><li>1st accompanying infant - Rs 1250 per coupon, plus taxes</li><li>The Air Hostess Steward will look after the blind persons not accompanied by escorts in flight.</li></ol>",
+      "eligibilityRequirement": "Persons who are 100% blind and residents of India",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Air India Limited, <br/>Airlines House, 113, Gurudwara Rakabganj Road, <br/>New Delhi - 110 001<br/>24x7 Customer Care number - 0124-2641407 / 020-26231407 / 1860 2331407 , <br/>Email- contactus@airindia.in<br/><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "Photocopy of the certificate issued by an Eye Hospital or Medical Practitioner (not less than MBBS), stating that the person is totally blind in both the eyes.",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0"
+    },
+    {
+      "id": 23,
+      "type": "travel",
+      "heading": "Locomotor disability concession in Air India airlines",
+      "timeline": "Applications are accepted on a rolling basis",
+      "entitlements": "<ol><li>Discount of 50% of Basic fare of select booking class in Economy cabin</li><li>(Under 2 years) 1st accompanying Infant - Rs.1250 per coupon, Plus applicable taxes.</li></ol>",
+      "eligibilityRequirement": "Disabled persons suffering from locomotor disability to the extent of 80% and above and are residents of India. Conditions falling under this category include cases of- Paraplegia, Hemiplegia, Cerebral palsy, severe cases of Poliomyelitis, Kyphosis, Muscular dystrophies, Amputees.",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:INDIAN RAILWAYS<br/>Address : Federation of Railway Officers Association Office, <br/>256-A, Rail Bhavan, Raisina Road, <br/>New Delhi -11000<br/>Phone: (Rly) 43468 (P&T) 23389155; <br/>Email - secyfroa@gmail.com<br/><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
+      "documentRequired": "Disability Certificate issued by a Chief District medical officer or a board constituted by Government hospital.",
+      "minAge": 0,
+      "maxAge": 100,
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0"
     }
   ]
 }
