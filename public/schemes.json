@@ -56,6 +56,23 @@
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
       "documentRequired": "<ol><li>Photograph<li>proof of age, disability certificate, income certificate of the parent, tuition fees receipt, last academic qualification certificate, etc. duly filled in the prescribed.pdf format</li><ol>"
     },
-    {}
+    {
+      "id": 7,
+      "heading": "National Fellowship for PWD",
+      "timeline": "Not defined",
+      "entitlements": "The National Fellowship for PWD aims to provide financial assistance to the students with disabilities for pursuing higher education leading to degrees such as M.Phil and Ph.D in India.",
+      "eligibilityRequirement": "<ol><li>Any student with 40% or more disability</li><li>Admitted to full-time M.Phil./Ph.D. degree in a recognized university and programme</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
+      "documentRequired": "Not defined"
+    },
+    {
+      "id": 8,
+      "heading": "National Overseas Scholarship for PWD",
+      "timeline": "Not defined",
+      "entitlements": "The National Overseas Scholarship for PWD aims to provides financial assistance to the students with disabilities who are selected for pursuing Master's level courses and Ph.D abroad in the following specified fields of study: <ol><li>Engineering & Management</li><li>Pure Sciences and Applied Sciences</li><li>Agricultural Science & Medicine</li><li>Commerce, Accounting and Finance and</li><li>Humanities, Social Science including Law & Fine Arts.</li></ol>",
+      "eligibilityRequirement": "<ol><li>Any student with 40% or more disability</li><li>Admitted to full-time M.Phil./Ph.D. degree in a recognized university and programme</li></ol>",
+      "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
+      "documentRequired": "Not defined"
+    }
   ]
 }
