@@ -144,7 +144,7 @@ function FindAService() {
     <div style={{ height: "100%", width: "100%" }}>
       <Strip />
       <center>
-        <Heading title="Find the service" />
+        <Heading title="Finding the service" />
         <form
           style={{
             borderRadius: "1%",
