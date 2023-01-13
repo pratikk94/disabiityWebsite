@@ -155,10 +155,11 @@ function FindAService() {
             paddingBottom: "2%",
             display: "inline-block",
             border: "#999",
-            borderWidth: "5px",
+            borderWidth: "4px",
             borderStyle: "solid",
             borderRadius: "12px",
             width: "50%",
+            boxShadow: "4px 4px lightGrey",
           }}
           onSubmit={OnSubmit}
         >
