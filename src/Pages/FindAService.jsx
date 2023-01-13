@@ -10,12 +10,16 @@ function FindAService() {
   const [isHealth, setIsHealth] = useState(false);
   const [isTravel, setIsTravel] = useState(false);
   const [isSkill, setIsSkill] = useState(false);
+  {
+    /*
   const [isPhysical, setIsPhyscial] = useState(false);
   const [isIntellectual, setIsIntellectual] = useState(false);
   const [isMental, setIsMental] = useState(false);
   const [isNeurological, setIsNeurological] = useState(false);
   const [isBlood, setIsBlood] = useState(false);
   const [isMultiple, setIsMultiple] = useState(false);
+*/
+  }
   const [jsonData, setJsonData] = useState({ schemes: [] });
   const [selectedType, setSelectedType] = useState([]);
   const [date, setDate] = useState("");
@@ -90,6 +94,8 @@ function FindAService() {
     setIsSkill(!isSkill);
   };
   // React Checkboxes onChange Methods
+  {
+    /*
   const onChangePhyscial = () => {
     setIsPhyscial(!isPhysical);
   };
@@ -112,6 +118,8 @@ function FindAService() {
   const onChangeMultiple = () => {
     setIsMultiple(!isMultiple);
   };
+*/
+  }
   // Submit
   const OnSubmit = (e) => {
     e.preventDefault();
