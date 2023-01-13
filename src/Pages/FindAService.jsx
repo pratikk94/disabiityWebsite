@@ -139,7 +139,7 @@ function FindAService() {
   };
 
   const activeColor = "#04B86B";
-  const inActiveColor = "#fff";
+  const inActiveColor = "#ddd";
   return (
     <div style={{ height: "100%", width: "100%" }}>
       <Strip />
@@ -149,12 +149,16 @@ function FindAService() {
           style={{
             borderRadius: "1%",
             marginTop: "3%",
-            backgroundColor: "#f2f2f2",
-            paddingLeft: "12%",
-            paddingRight: "12%",
+            paddingLeft: "4%",
+            paddingRight: "4%",
             paddingTop: "4%",
-            paddingBottom: "4%",
+            paddingBottom: "2%",
             display: "inline-block",
+            border: "#999",
+            borderWidth: "5px",
+            borderStyle: "solid",
+            borderRadius: "12px",
+            width: "50%",
           }}
           onSubmit={OnSubmit}
         >
@@ -171,9 +175,12 @@ function FindAService() {
               type="date"
               name="DateOfBirth"
               id="DateOfBirth"
+              max={new Date().toISOString().split("T")[0]}
               required={true}
               style={{
                 fontSize: regular.fontSizeText,
+                width: "32%",
+                marginLeft: "5%",
               }}
             ></input>
           </div>
@@ -193,7 +200,8 @@ function FindAService() {
               id="FamilyIncome"
               style={{
                 fontSize: regular.fontSizeText,
-                marginLeft: "-6%",
+                marginLeft: "-8%",
+                width: "32%",
               }}
             ></input>
           </div>
@@ -211,20 +219,27 @@ function FindAService() {
               in
             </p>
           </div>
-
           <div>
             <span
               className="form-check"
               style={{
                 background: isEducation ? activeColor : inActiveColor,
                 borderRadius: "0.5%",
+                width: "18%",
                 float: "left",
                 border:
                   "0.3% solid " + (isEducation ? activeColor : inActiveColor),
                 padding: "1%",
                 marginTop: "2%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
+              onClick={onChangeEducation}
             >
+              <img
+                src={require("../assets/education.jpeg")}
+                style={{ width: "64%", height: "64%", display: "block" }}
+              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -232,7 +247,6 @@ function FindAService() {
                     display: "none",
                   }}
                   checked={isEducation}
-                  onChange={onChangeEducation}
                   className="form-check-input"
                 />
                 <p
@@ -245,17 +259,25 @@ function FindAService() {
 
             <span
               className="form-check"
+              onClick={onChangeHealth}
               style={{
                 background: isHealth ? activeColor : inActiveColor,
                 borderRadius: "0.5%",
                 float: "left",
+                width: "18%",
                 marginLeft: "2%",
                 marginTop: "2%",
                 border:
                   "0.3% solid " + (isHealth ? activeColor : inActiveColor),
                 padding: "1%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
+              <img
+                src={require("../assets/education.jpeg")}
+                style={{ width: "64%", height: "64%", display: "block" }}
+              />
               <label className="form-check-label">
                 <input
                   style={{
@@ -263,7 +285,6 @@ function FindAService() {
                   }}
                   type="checkbox"
                   checked={isHealth}
-                  onChange={onChangeHealth}
                   className="form-check-input"
                 />
                 <p
@@ -276,6 +297,7 @@ function FindAService() {
 
             <span
               className="form-check"
+              onClick={onChangeSocial}
               style={{
                 width: "18%",
                 background: isSocial ? activeColor : inActiveColor,
@@ -286,8 +308,14 @@ function FindAService() {
                 border:
                   "0.3% solid " + (isSocial ? activeColor : inActiveColor),
                 padding: "1%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
+              <img
+                src={require("../assets/education.jpeg")}
+                style={{ width: "64%", height: "64%", display: "block" }}
+              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -295,7 +323,6 @@ function FindAService() {
                     display: "none",
                   }}
                   checked={isSocial}
-                  onChange={onChangeSocial}
                   className="form-check-input"
                 />
                 <p
@@ -308,6 +335,7 @@ function FindAService() {
 
             <span
               className="form-check"
+              onClick={onChangeTravel}
               style={{
                 width: "18%",
                 background: isTravel ? activeColor : inActiveColor,
@@ -318,8 +346,14 @@ function FindAService() {
                 border:
                   "0.3% solid " + (isTravel ? activeColor : inActiveColor),
                 padding: "1%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
+              <img
+                src={require("../assets/education.jpeg")}
+                style={{ width: "64%", height: "64%", display: "block" }}
+              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -327,7 +361,6 @@ function FindAService() {
                     display: "none",
                   }}
                   checked={isTravel}
-                  onChange={onChangeTravel}
                   className="form-check-input"
                 />
                 <p
@@ -340,6 +373,7 @@ function FindAService() {
 
             <span
               className="form-check"
+              onClick={onChangeSkill}
               style={{
                 width: "18%",
                 background: isSkill ? activeColor : inActiveColor,
@@ -349,8 +383,14 @@ function FindAService() {
                 marginTop: "2%",
                 border: "0.3% solid " + (isSkill ? activeColor : inActiveColor),
                 padding: "1%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
+              <img
+                src={require("../assets/education.jpeg")}
+                style={{ width: "64%", height: "64%", display: "block" }}
+              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -358,7 +398,6 @@ function FindAService() {
                     display: "none",
                   }}
                   checked={isSkill}
-                  onChange={onChangeSkill}
                   className="form-check-input"
                 />
                 <p
@@ -369,7 +408,7 @@ function FindAService() {
               </label>
             </span>
           </div>
-
+          {/*
           <div>
             <p
               style={{
@@ -383,7 +422,6 @@ function FindAService() {
               Type of disability
             </p>
           </div>
-
           <div>
             <span
               className="form-check"
@@ -393,6 +431,8 @@ function FindAService() {
                 padding: "1%",
                 border:
                   "0.3% solid " + (isPhysical ? activeColor : inActiveColor),
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -425,6 +465,9 @@ function FindAService() {
                   "0.3% solid " +
                   (isIntellectual ? activeColor : inActiveColor),
                 padding: "1%",
+
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -456,6 +499,9 @@ function FindAService() {
                 border:
                   "0.3% solid " + (isMental ? activeColor : inActiveColor),
                 padding: "1%",
+
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -489,6 +535,9 @@ function FindAService() {
                   "0.3% solid " +
                   (isNeurological ? activeColor : inActiveColor),
                 padding: "1%",
+
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -519,6 +568,8 @@ function FindAService() {
                 marginLeft: "2%",
                 border: "0.3% solid " + (isBlood ? activeColor : inActiveColor),
                 padding: "1%",
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -551,6 +602,9 @@ function FindAService() {
                 border:
                   "0.3% solid " + (isMultiple ? activeColor : inActiveColor),
                 padding: "1%",
+
+                borderRadius: "8px",
+                boxShadow: "0 0 8px #ddd",
               }}
             >
               <label className="form-check-label">
@@ -572,16 +626,15 @@ function FindAService() {
               </label>
             </span>
           </div>
-
+                */}
           <div style={{ height: "4%" }}></div>
-
           <label>
             <p
               style={{
                 fontSize: regular.fontSizeText,
                 float: "left",
                 marginTop: "2%",
-                marginLeft: "8%",
+                marginLeft: "1%",
               }}
             >
               Disability Percentage
@@ -591,7 +644,13 @@ function FindAService() {
               id="disabilityPercentage"
               min="0"
               max="100"
-              style={{ marginTop: "2%", width: "48%", height: "3%" }}
+              style={{
+                marginTop: "2%",
+                width: "32%",
+                height: "3%",
+                marginLeft: "-6%",
+                fontSize: regular.fontSizeText,
+              }}
             ></input>
           </label>
           <div className="form-group">
@@ -600,11 +659,12 @@ function FindAService() {
               className="btn btn-success"
               style={{
                 fontSize: regular.fontSizeText,
-                marginLeft: "-32%",
                 marginTop: "2%",
+                padding: "1%",
+                background: activeColor,
               }}
             >
-              Save
+              Submit
             </button>
           </div>
         </form>

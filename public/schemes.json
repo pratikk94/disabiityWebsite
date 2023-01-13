@@ -11,7 +11,7 @@
       "documentRequired": "<ol><li>Completed application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>",
       "minAge": 3,
       "maxAge": 18,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "Online applications are available at <a link='https://edustud.nic.in//mis/studentadmission/webform1.aspx'>link</a>  For regular update and online application form, check edudel portal at <a href='https://edudel.nic.in'>link</a>"
     },
@@ -27,7 +27,7 @@
       "financialAssistance": "The concerned head of the school after receipt of funds in the Samagra Shiksha Bank Account of the school shall ensure that the allowances are paid. The allowances shall be paid through Electronic Clearing System or by Cheque in the name of the student. <ol><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li><ol>",
       "minAge": 3,
       "maxAge": 23,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -42,7 +42,7 @@
       "documentRequired": "Disability certificate",
       "minAge": 14,
       "maxAge": 18,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -102,7 +102,7 @@
       "documentRequired": "Not defined",
       "minAge": 22,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "0"
     },
@@ -132,7 +132,7 @@
       "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li><li>Any one of the following documents for verification of bonafide residency for the last 3 years:<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li></li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -192,7 +192,7 @@
       "documentRequired": "<ol><li>Disability Certificate</li><li>Aadhar card</li><li>Bank account details</li><li>Pan card / voter ID</li></ol>",
       "minAge": 15,
       "maxAge": 45,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -207,7 +207,7 @@
       "documentRequired": "0",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -222,7 +222,7 @@
       "documentRequired": "<ol><li>Disability Certificate/UDID card</li><li>Birth certificate</li><li>Aadhar card</li><li>Voter ID card</li><li>Ration card</li></ol>",
       "minAge": 15,
       "maxAge": 59,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -252,7 +252,7 @@
       "documentRequired": "<ol><li>Disability Certificate</li><li>Age certificate issued by competent authority authorized by the State Government or as mentioned in the 10th certificate or any other certificate issued by the government would be the required document. (Aadhar Card would be best)</li></ol>",
       "minAge": 14,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "0"
     },
@@ -267,7 +267,7 @@
       "documentRequired": "<ol><li>Disability Certificate</li><li>Income Certificate according to Section 139 for the pertinent year of assessment. Download here</ol>",
       "minAge": 18,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "0"
     },
@@ -282,7 +282,7 @@
       "documentRequired": "<ol><li>Disability Certificate</li><li>Income Certificate according to Section 139 for the pertinent year of assessment. Download here</ol>",
       "minAge": 18,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "0"
     },
@@ -297,7 +297,7 @@
       "documentRequired": "<ol>Card issued by Sub Divisional Magistrate (SDM) at the district magistrate office. Form placed here<li>Residential proof</li><li>Passport size photograph</li><li>Copy of Disability certificate</li></ol>",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "0"
     },
@@ -312,7 +312,7 @@
       "documentRequired": "For PWD <br/>Offline<ol><li>ID proof</li><li>Concessional certificate (Attached here)</li></ol>Online<ol><li>Railway concession card</li><li>Documents for obtaining railway ID card -</li><li>Concession Certificate or Unique Disability ID (UDID) Card</li><li>Photo Identity Proof (e.g. Aadhaar Card)</li><li>Date of Birth Proof (Any government issued ID)</li><li>Address Proof (Any government issued ID)</li><li>Passport size color photo</li><li>Attested photocopies of these documents</li></ol>For PatientsOffline<ol><li>Duly filled form for outward and return journey</li><li>ID proof</li></ol>",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -327,7 +327,7 @@
       "documentRequired": "Photocopy of the certificate issued by an Eye Hospital or Medical Practitioner (not less than MBBS), stating that the person is totally blind in both the eyes.",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     },
@@ -342,7 +342,7 @@
       "documentRequired": "Disability Certificate issued by a Chief District medical officer or a board constituted by Government hospital.",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "0",
+      "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
       "applicationProcess": "0"
     }
