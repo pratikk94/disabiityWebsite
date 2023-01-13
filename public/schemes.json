@@ -4,15 +4,16 @@
       "id": 1,
       "type": "educational",
       "heading": "3% reservation for CWSN to study in private school at Government expenses popularly called EWS/ DG quota. ",
-      "timeline": "The online application will be available at the beginning of the academic year, generally in March/April.Specific details are available at <a href='http://edustud.nic.in/mis/studentadmission'>link</a> which will be avialable in",
+      "timeline": "The online application will be available at the beginning of the academic year, generally in March/April.",
       "entitlements": "<ol><li>3% reservation for Persons with Disabilities among Economically  Weaker Sections/Disadvantaged Group in private schools</li><li>Free books,uniforms and writing material to be provided by the  school.</li><li>Facility of a special educator</li>    </ol>",
-      "eligibilityRequirement": "<ol><li>40% or more disability in 21 conditions as defined by Rights of Persons with Disabilities Act, 2016</li><li>Minimum age of the child for admission in nursery/pre-school is  3 years, for KG/pre-primary is 4 years and for Class- I is 5  years</li>    </ol>",
+      "eligibilityRequirement": "<ol><li> 40% or more disability in 21 conditions as defined by Rights of Persons with Disabilities Act, 2016</li><li>The age criteria for children with disabilities for pre-school/nursery, pre-primary/KG, & Class I as follows: <br/>Pre-school/nursery - 3-9yrs<br/>Pre-primary/KG - 4-9 yrs<br/>Class I - 5-9 yrs.<br/></li><li>Maximum family income: Rs 8 lakh per annum</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:Office of Chief Commissioner for Persons with Disabilities(Divyangjan), 5th Floor, NISD Building, Plot No.G-2, Sector-10, New Delhi-110075, Phone: 011-20892364, 20892275, E-mail: ccpd@nic.in</li>    </ol>",
-      "documentRequired": "<ol><li>Compconsted application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>",
+      "documentRequired": "<ol><li>Completed application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>",
       "minAge": 3,
       "maxAge": 18,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": "40"
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "Online applications are available at <a link='https://edustud.nic.in//mis/studentadmission/webform1.aspx'>link</a>  For regular update and online application form, check edudel portal at <a href='https://edudel.nic.in'>link</a>"
     },
     {
       "id": 2,
@@ -26,8 +27,9 @@
       "financialAssistance": "The concerned head of the school after receipt of funds in the Samagra Shiksha Bank Account of the school shall ensure that the allowances are paid. The allowances shall be paid through Electronic Clearing System or by Cheque in the name of the student. <ol><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li><ol>",
       "minAge": 3,
       "maxAge": 23,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 3,
@@ -40,8 +42,9 @@
       "documentRequired": "Disability certificate",
       "minAge": 14,
       "maxAge": 18,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 4,
@@ -55,7 +58,8 @@
       "minAge": 13,
       "maxAge": 19,
       "maxFamilyIncome": "250000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 5,
@@ -69,7 +73,8 @@
       "minAge": 14,
       "maxAge": 100,
       "maxFamilyIncome": "250000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 6,
@@ -83,7 +88,8 @@
       "minAge": 15,
       "maxAge": 100,
       "maxFamilyIncome": "600000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 7,
@@ -96,8 +102,9 @@
       "documentRequired": "Not defined",
       "minAge": 22,
       "maxAge": 100,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": "40"
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 8,
@@ -111,7 +118,8 @@
       "minAge": 20,
       "maxAge": 35,
       "maxFamilyIncome": "600000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 9,
@@ -124,8 +132,9 @@
       "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li><li>Any one of the following documents for verification of bonafide residency for the last 3 years:<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li></li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 10,
@@ -139,7 +148,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "300000",
-      "minDisabilityPercentage": "not defined"
+      "minDisabilityPercentage": "not defined",
+      "applicationProcess": "0"
     },
     {
       "id": 11,
@@ -153,7 +163,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "240000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 12,
@@ -167,7 +178,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "360000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 13,
@@ -180,36 +192,39 @@
       "documentRequired": "<ol><li>Disability Certificate</li><li>Aadhar card</li><li>Bank account details</li><li>Pan card / voter ID</li></ol>",
       "minAge": 15,
       "maxAge": 45,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 14,
       "type": "skill",
       "heading": "Entitlements at Vocational Rehabilitation Center",
-      "timeline": "",
+      "timeline": "0",
       "entitlements": "<ol><li>Interviewing adult handicapped persons for knowing their personal, social, family, educational, economic and vocational background causing adjustment problems.</li><li>Evaluation of persons with disabilities to assess their physical efficiencies, measure their psychological strengths and weaknesses</li><li>Assessing the residual capacities, attributes, and functional skills of different categories of handicapped.</li><li>Examination of the handicapped persons by a panel of medical specialists to identify the degree of disability and functional capacities and suggest remedial measures.</li><li>Testing of the handicapped persons on the job capabilities in different trades sanctioned under VRC’s programmes</li><li>Imparting workshop training to develop vocational adjustment in respect of their work habits.</li><li>Providing assistance to physically challenged persons in the Centre for preparing their vocational plan</li><li>Imparting non-formal in-plant training and tailor made module based vocational training to Persons with Disabilities for skill building and making them employable.</li><li>Sponsoring and assisting the handicapped persons to utilize the facilities of reservations against the seats in various educational/training institutions</li><li>Sponsoring the handicapped persons to the employers against vacancies notified to the VRCs and taking follow up action.</li><li>Recommending the handicapped persons for grant of loans by the concerned financial institutions under differential rate of interest or setting up of different ventures under various self-employment scheme</li></ol>",
       "eligibilityRequirement": "<ol><li>Indian national, unemployed youth or, school/college dropouts</li><li>Possesses an Aadhaar card and a bank account</li><li>Has a verifiable alternate ID such as PAN or Voter ID (applicable only for the states of North-East region and J&K - Additional IDs may be added from time to time)</li><li>Any other criteria defined for respective job roles</li><li>In case of corporations or factory premises, candidates cannot be their own employees or daily wagers.</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Ministry of Labour & Employment Govt. of India,<br/>Shram Shakti Bhawan Rafi Marg, <br/>New Delhi-110001, India <br/>Email- Ea-labour@gov.in, <br/>Phone-23710446</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
-      "documentRequired": "",
+      "documentRequired": "0",
       "minAge": 0,
       "maxAge": 100,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 15,
       "type": "skill",
       "heading": "National action plan for skill training of PWDs under SIPDA",
-      "timeline": "",
+      "timeline": "0",
       "entitlements": "<ol><li>Free skill training through recognised training institutions</li><li>30% reservation for women candidates in each training program</li></ol>",
       "eligibilityRequirement": "<ol><li>A citizen of India, with not less than 40% disability and having a disability certificate</li><li>Age not less than 15 years and not more than 59 years of age on the last date of receipt of application for the course</li><li>The applicant should not have undergone any other skill training course sponsored by Govt. of India during the period of two years prior to the last date of receipt of application</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Department of Empowerment of Persons with Disabilities<br/>Ministry of Social Justice & Empowerment, Government of India<br/>Address: Paryavaran Bhawan, B-II Block, 5th Floor, <br/>Lodhi Rd, CGO Complex, New Delhi, <br/>Delhi 110003,<br/>Phone- 24369055, <br/>Email :secretaryda-msje@nic.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
       "documentRequired": "<ol><li>Disability Certificate/UDID card</li><li>Birth certificate</li><li>Aadhar card</li><li>Voter ID card</li><li>Ration card</li></ol>",
       "minAge": 15,
       "maxAge": 59,
-      "maxFamilyIncome": "",
-      "minDisabilityPercentage": ""
+      "maxFamilyIncome": "0",
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 16,
@@ -223,7 +238,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "100000",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 17,
@@ -237,7 +253,8 @@
       "minAge": 14,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 18,
@@ -251,7 +268,8 @@
       "minAge": 18,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 19,
@@ -265,7 +283,8 @@
       "minAge": 18,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 20,
@@ -279,7 +298,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "40"
+      "minDisabilityPercentage": "40",
+      "applicationProcess": "0"
     },
     {
       "id": 21,
@@ -293,7 +313,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "0"
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 22,
@@ -307,7 +328,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "0"
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     },
     {
       "id": 23,
@@ -321,7 +343,8 @@
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "0",
-      "minDisabilityPercentage": "0"
+      "minDisabilityPercentage": "0",
+      "applicationProcess": "0"
     }
   ]
 }

@@ -18,6 +18,9 @@ function FindAService() {
   const [isMultiple, setIsMultiple] = useState(false);
   const [jsonData, setJsonData] = useState({ schemes: [] });
   const [selectedType, setSelectedType] = useState([]);
+  const [date, setDate] = useState("");
+  const [annualIncome, setAnnualIncome] = useState(0);
+  const [minDisabilityPercentage, setMinDisabilityPercentage] = useState(100);
   // React Checkboxes onChange Methods
   const onChangeEducation = () => {
     if (!isEducation) {
@@ -112,6 +115,13 @@ function FindAService() {
   // Submit
   const OnSubmit = (e) => {
     e.preventDefault();
+    setDate(document.getElementById("DateOfBirth").value);
+    if (document.getElementById("FamilyIncome").value > 0)
+      setAnnualIncome(document.getElementById("FamilyIncome").value);
+    if (document.getElementById("disabilityPercentage").value > 0)
+      setMinDisabilityPercentage(
+        document.getElementById("disabilityPercentage").value
+      );
 
     getData();
   };
@@ -134,7 +144,7 @@ function FindAService() {
     <div style={{ height: "100%", width: "100%" }}>
       <Strip />
       <center>
-        <Heading title="Find a service" />
+        <Heading title="Find the service" />
         <form
           style={{
             borderRadius: "1%",
@@ -160,6 +170,7 @@ function FindAService() {
             <input
               type="date"
               name="DateOfBirth"
+              id="DateOfBirth"
               required={true}
               style={{
                 fontSize: regular.fontSizeText,
@@ -179,6 +190,7 @@ function FindAService() {
             <input
               type="number"
               name="FamilyIncome"
+              id="FamilyIncome"
               style={{
                 fontSize: regular.fontSizeText,
                 marginLeft: "-6%",
@@ -576,6 +588,7 @@ function FindAService() {
             </p>
             <input
               type="number"
+              id="disabilityPercentage"
               min="0"
               max="100"
               style={{ marginTop: "2%", width: "48%", height: "3%" }}
@@ -595,7 +608,13 @@ function FindAService() {
             </button>
           </div>
         </form>
-        <Scheme rawJsonData={jsonData} selectedType={selectedType} />
+        <Scheme
+          rawJsonData={jsonData}
+          selectedType={selectedType}
+          age={date}
+          annualIncome={annualIncome}
+          minDisabilityPercentage={minDisabilityPercentage}
+        />
       </center>
     </div>
   );

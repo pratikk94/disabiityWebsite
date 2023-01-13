@@ -3,9 +3,20 @@ import parse from "html-react-parser";
 
 export default function Scheme(props) {
   if (props.rawJsonData !== undefined) {
-    console.log(props.selectedType);
+    var today = new Date();
+    var birthDate = new Date(props.age);
+    var age = today.getFullYear() - birthDate.getFullYear();
+    var m = today.getMonth() - birthDate.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+      age--;
+    }
+
     return props.rawJsonData["schemes"].map((jsonData, index) =>
-      props.selectedType.indexOf(jsonData["type"]) > -1 ? (
+      props.selectedType.indexOf(jsonData["type"]) > -1 &&
+      props.annualIncome <= jsonData["maxFamilyIncome"] &&
+      props.minDisabilityPercentage > jsonData["minDisabilityPercentage"] &&
+      age >= jsonData["minAge"] &&
+      age <= jsonData["maxAge"] ? (
         <div>
           <h1
             style={{
@@ -108,8 +119,35 @@ export default function Scheme(props) {
               marginTop: "1%",
             }}
           >
+            Application Process
+          </h1>
+          <p
+            style={{
+              textAlign: "left",
+              wordWrap: "break-all",
+              width: "60%",
+              marginLeft: "4%",
+              fontSize: regular.fontSizeText,
+              whiteSpace: "normal",
+            }}
+          >
+            <pre style={{ whiteSpace: "pre-wrap" }}>
+              {parse(jsonData["applicationProcess"])}
+            </pre>
+          </p>
+          <h1
+            style={{
+              textAlign: "left",
+              wordWrap: "break-all",
+              width: "62%",
+              whiteSpace: "normal",
+              color: "#1a2c6d",
+              marginTop: "1%",
+            }}
+          >
             Timelines
           </h1>
+
           <p>
             <pre
               style={{
