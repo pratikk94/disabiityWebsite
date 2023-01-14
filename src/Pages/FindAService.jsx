@@ -20,8 +20,16 @@ function FindAService() {
   const [isMultiple, setIsMultiple] = useState(false);
 */
   }
-  const [jsonData, setJsonData] = useState({ schemes: [] });
-  const [selectedType, setSelectedType] = useState([]);
+  const [jsonData, setJsonData] = useState({
+    schemes: [],
+  });
+  const [selectedType, setSelectedType] = useState([
+    "educational",
+    "social",
+    "travel",
+    "skill",
+    "health",
+  ]);
   const [date, setDate] = useState("");
   const [annualIncome, setAnnualIncome] = useState(0);
   const [minDisabilityPercentage, setMinDisabilityPercentage] = useState(100);
@@ -123,6 +131,7 @@ function FindAService() {
   // Submit
   const OnSubmit = (e) => {
     e.preventDefault();
+    console.log(selectedType);
     setDate(document.getElementById("DateOfBirth").value);
     if (document.getElementById("FamilyIncome").value > 0)
       setAnnualIncome(document.getElementById("FamilyIncome").value);
