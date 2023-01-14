@@ -36,6 +36,18 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  font-family: "EB Garamond", serif;
+}
+p {
+  font-family: "EB Garamond", serif;
+}
+pre {
+  font-family: "EB Garamond", serif;
+}
+input {
+  font-family: "EB Garamond", serif;
+}
 br {
   display: block; /* makes it have a width */
   content: ""; /* clears default height */

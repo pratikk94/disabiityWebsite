@@ -147,7 +147,7 @@ function FindAService() {
   };
 
   const activeColor = "#04B86B";
-  const inActiveColor = "#ddd";
+  const inActiveColor = "#f2f2f2";
   return (
     <div style={{ height: "100%", width: "100%" }}>
       <Strip />
@@ -208,7 +208,7 @@ function FindAService() {
               id="FamilyIncome"
               style={{
                 fontSize: regular.fontSizeText,
-                marginLeft: "-8%",
+                marginLeft: "-1%",
                 width: "32%",
               }}
             ></input>
@@ -255,14 +255,25 @@ function FindAService() {
                 />
                 <p
                   style={{
-                    fontSize: regular.fontSizeText,
+                    fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
                 >
-                  Education
+                  Educational Schemes
                 </p>
+                <img
+                  src={require("../assets/book.png")}
+                  style={{
+                    height: "6%",
+                    width: "6%",
+                    marginTop: "2%",
+                    float: "right",
+                    marginRight: "2%",
+                  }}
+                  alt="book"
+                />
               </label>
             </span>
 
@@ -293,14 +304,25 @@ function FindAService() {
                 />
                 <p
                   style={{
-                    fontSize: regular.fontSizeText,
+                    fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
                 >
-                  Health
+                  Healthcare scheme
                 </p>
+                <img
+                  src={require("../assets/healthcare.png")}
+                  style={{
+                    height: "6%",
+                    width: "6%",
+                    marginTop: "2%",
+                    float: "right",
+                    marginRight: "2%",
+                  }}
+                  alt="book"
+                />
               </label>
             </span>
 
@@ -331,14 +353,25 @@ function FindAService() {
                 />
                 <p
                   style={{
-                    fontSize: regular.fontSizeText,
+                    fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
                 >
-                  Social
+                  Social scheme
                 </p>
+                <img
+                  src={require("../assets/people.png")}
+                  style={{
+                    height: "6%",
+                    width: "6%",
+                    marginTop: "2%",
+                    float: "right",
+                    marginRight: "2%",
+                  }}
+                  alt="book"
+                />
               </label>
             </span>
 
@@ -369,14 +402,25 @@ function FindAService() {
                 />
                 <p
                   style={{
-                    fontSize: regular.fontSizeText,
+                    fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
                 >
-                  Travel
+                  Travel related scheme
                 </p>
+                <img
+                  src={require("../assets/travel-luggage.png")}
+                  style={{
+                    height: "6%",
+                    width: "6%",
+                    marginTop: "2%",
+                    float: "right",
+                    marginRight: "2%",
+                  }}
+                  alt="book"
+                />
               </label>
             </span>
 
@@ -406,14 +450,25 @@ function FindAService() {
                 />
                 <p
                   style={{
-                    fontSize: regular.fontSizeText,
+                    fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
                 >
-                  Skill
+                  Skill related scheme
                 </p>
+                <img
+                  src={require("../assets/pencil.png")}
+                  style={{
+                    height: "6%",
+                    width: "6%",
+                    marginTop: "2%",
+                    float: "right",
+                    marginRight: "2%",
+                  }}
+                  alt="book"
+                />
               </label>
             </span>
           </div>
