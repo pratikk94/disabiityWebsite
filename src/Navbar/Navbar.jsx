@@ -12,7 +12,7 @@ function NavBar() {
       <DisabilityBar />
       <nav className="navbar">
         <div className="nav-container">
-          <NavLink to="/home" className="nav-logo">
+          <NavLink to="/" className="nav-logo">
             <img
               src={require("../assets/logo.jpg")}
               alt="DCPCR logo"
@@ -22,7 +22,7 @@ function NavBar() {
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <NavLink to="/home" className="nav-links" onClick={handleClick}>
+              <NavLink to="/" className="nav-links" onClick={handleClick}>
                 <p style={{ display: "inline" }}>Home</p>
               </NavLink>
             </li>
