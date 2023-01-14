@@ -1,6 +1,6 @@
 export let regular = {
-  fontSizeHeader: "3vw",
+  fontSizeHeader: "32px",
   fontSizeSubHeader: "2vw",
-  fontSizeText: "1.5vw",
+  fontSizeText: "20px",
   fontFamily: "Arial",
 };

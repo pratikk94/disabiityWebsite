@@ -155,7 +155,6 @@ function FindAService() {
         <Heading title="Finding the service" />
         <form
           style={{
-            borderRadius: "1%",
             marginTop: "3%",
             paddingLeft: "4%",
             paddingRight: "4%",
@@ -166,7 +165,7 @@ function FindAService() {
             borderWidth: "4px",
             borderStyle: "solid",
             borderRadius: "12px",
-            width: "50%",
+            width: "72%",
             boxShadow: "4px 4px lightGrey",
           }}
           onSubmit={OnSubmit}
@@ -233,22 +232,18 @@ function FindAService() {
               className="form-check"
               style={{
                 background: isEducation ? activeColor : inActiveColor,
-                borderRadius: "0.5%",
-                width: "18%",
+                width: "100%",
                 float: "left",
                 border:
                   "0.3% solid " + (isEducation ? activeColor : inActiveColor),
                 padding: "1%",
+                marginLeft: "2%",
                 marginTop: "2%",
                 borderRadius: "8px",
                 boxShadow: "0 0 8px #ddd",
               }}
               onClick={onChangeEducation}
             >
-              <img
-                src={require("../assets/education.jpeg")}
-                style={{ width: "64%", height: "64%", display: "block" }}
-              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -259,7 +254,12 @@ function FindAService() {
                   className="form-check-input"
                 />
                 <p
-                  style={{ fontSize: regular.fontSizeText, display: "inline" }}
+                  style={{
+                    fontSize: regular.fontSizeText,
+                    display: "inline",
+                    float: "left",
+                    padding: "2vw",
+                  }}
                 >
                   Education
                 </p>
@@ -271,9 +271,8 @@ function FindAService() {
               onClick={onChangeHealth}
               style={{
                 background: isHealth ? activeColor : inActiveColor,
-                borderRadius: "0.5%",
                 float: "left",
-                width: "18%",
+                width: "100%",
                 marginLeft: "2%",
                 marginTop: "2%",
                 border:
@@ -283,10 +282,6 @@ function FindAService() {
                 boxShadow: "0 0 8px #ddd",
               }}
             >
-              <img
-                src={require("../assets/education.jpeg")}
-                style={{ width: "64%", height: "64%", display: "block" }}
-              />
               <label className="form-check-label">
                 <input
                   style={{
@@ -297,7 +292,12 @@ function FindAService() {
                   className="form-check-input"
                 />
                 <p
-                  style={{ fontSize: regular.fontSizeText, display: "inline" }}
+                  style={{
+                    fontSize: regular.fontSizeText,
+                    display: "inline",
+                    float: "left",
+                    padding: "2vw",
+                  }}
                 >
                   Health
                 </p>
@@ -308,9 +308,8 @@ function FindAService() {
               className="form-check"
               onClick={onChangeSocial}
               style={{
-                width: "18%",
+                width: "100%",
                 background: isSocial ? activeColor : inActiveColor,
-                borderRadius: "0.5%",
                 float: "left",
                 marginLeft: "2%",
                 marginTop: "2%",
@@ -321,10 +320,6 @@ function FindAService() {
                 boxShadow: "0 0 8px #ddd",
               }}
             >
-              <img
-                src={require("../assets/education.jpeg")}
-                style={{ width: "64%", height: "64%", display: "block" }}
-              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -335,7 +330,12 @@ function FindAService() {
                   className="form-check-input"
                 />
                 <p
-                  style={{ fontSize: regular.fontSizeText, display: "inline" }}
+                  style={{
+                    fontSize: regular.fontSizeText,
+                    display: "inline",
+                    float: "left",
+                    padding: "2vw",
+                  }}
                 >
                   Social
                 </p>
@@ -346,9 +346,8 @@ function FindAService() {
               className="form-check"
               onClick={onChangeTravel}
               style={{
-                width: "18%",
+                width: "100%",
                 background: isTravel ? activeColor : inActiveColor,
-                borderRadius: "0.5%",
                 float: "left",
                 marginLeft: "2%",
                 marginTop: "2%",
@@ -359,10 +358,6 @@ function FindAService() {
                 boxShadow: "0 0 8px #ddd",
               }}
             >
-              <img
-                src={require("../assets/education.jpeg")}
-                style={{ width: "64%", height: "64%", display: "block" }}
-              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -373,7 +368,12 @@ function FindAService() {
                   className="form-check-input"
                 />
                 <p
-                  style={{ fontSize: regular.fontSizeText, display: "inline" }}
+                  style={{
+                    fontSize: regular.fontSizeText,
+                    display: "inline",
+                    float: "left",
+                    padding: "2vw",
+                  }}
                 >
                   Travel
                 </p>
@@ -384,9 +384,8 @@ function FindAService() {
               className="form-check"
               onClick={onChangeSkill}
               style={{
-                width: "18%",
+                width: "100%",
                 background: isSkill ? activeColor : inActiveColor,
-                borderRadius: "0.5%",
                 float: "left",
                 marginLeft: "2%",
                 marginTop: "2%",
@@ -396,10 +395,6 @@ function FindAService() {
                 boxShadow: "0 0 8px #ddd",
               }}
             >
-              <img
-                src={require("../assets/education.jpeg")}
-                style={{ width: "64%", height: "64%", display: "block" }}
-              />
               <label className="form-check-label">
                 <input
                   type="checkbox"
@@ -410,7 +405,12 @@ function FindAService() {
                   className="form-check-input"
                 />
                 <p
-                  style={{ fontSize: regular.fontSizeText, display: "inline" }}
+                  style={{
+                    fontSize: regular.fontSizeText,
+                    display: "inline",
+                    float: "left",
+                    padding: "2vw",
+                  }}
                 >
                   Skill
                 </p>
