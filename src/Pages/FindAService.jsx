@@ -3,7 +3,7 @@ import Heading from "../components/heading";
 import Scheme from "../components/scheme";
 import Strip from "../components/strip";
 import { regular } from "../Responsive/constants";
-
+import "./FindAService.css";
 function FindAService() {
   const [isEducation, setIsEducation] = useState(false);
   const [isSocial, setIsSocial] = useState(false);
@@ -162,23 +162,7 @@ function FindAService() {
       <Strip />
       <center>
         <Heading title="Finding the service" />
-        <form
-          style={{
-            marginTop: "3%",
-            paddingLeft: "4%",
-            paddingRight: "4%",
-            paddingTop: "4%",
-            paddingBottom: "2%",
-            display: "inline-block",
-            border: "#999",
-            borderWidth: "4px",
-            borderStyle: "solid",
-            borderRadius: "12px",
-            width: "72%",
-            boxShadow: "4px 4px lightGrey",
-          }}
-          onSubmit={OnSubmit}
-        >
+        <form className="findAServiceForm" onSubmit={OnSubmit}>
           <div>
             <p
               style={{

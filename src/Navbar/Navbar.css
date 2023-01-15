@@ -1,7 +1,7 @@
 .navbar {
   background-color: #fff;
   height: 80px;
-  width: 100%;
+  width: "100%";
   display: flex;
   justify-content: center;
   align-items: center;
@@ -90,7 +90,7 @@
   }
 
   .nav-menu.active {
-    background: #1f5156;
+    background: #fff;
     left: 0px;
     opacity: 1;
     transition: all 0.5s ease;
@@ -111,6 +111,8 @@
     position: absolute;
     top: 0;
     right: 0;
+    height: 40px;
+    width: 40px;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;

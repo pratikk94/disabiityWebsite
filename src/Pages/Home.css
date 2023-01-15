@@ -1,0 +1,24 @@
+.Home {
+  display: flex;
+  width: 60%;
+  height: 100%;
+  background-color: #f2f2f2;
+  margin-top: 4%;
+  float: bottom;
+  position: relative;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 960px) {
+  .Home {
+    display: flex;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    flex-direction: column;
+  }
+  p {
+    display: 100%;
+  }
+}

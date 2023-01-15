@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { json } from "react-router-dom";
 import Scheme from "../components/scheme";
 import Strip from "../components/strip";
 import { regular } from "../Responsive/constants";
+import "./Home.css";
 function Home() {
   const [json, SetJson] = useState([]);
 
@@ -42,29 +42,15 @@ function Home() {
     <div style={{ height: "100%" }}>
       <Strip />
       <center>
-        <img
-          src={require("../assets/landingPageLogo.jpg")}
-          alt="Landing page Logo"
-          style={{ width: "50%", height: "64%", marginTop: "-3%" }}
-        />
-        <div
-          style={{
-            backgroundColor: "#F2F2F2",
-            marginTop: "-8%",
-            width: "40%",
-            height: "32%",
-            float: "bottom",
-            position: "relative",
-          }}
-        >
+        <div className="Home">
           <p
             style={{
               fontSize: regular.fontSizeHeader,
-              marginTop: "-16%",
               paddingTop: "4%",
               paddingBottom: "2%",
               color: "#1A2C6D",
-              marginLeft: "-40%",
+              width: "100%",
+              display: "block",
             }}
           >
             The right guide
@@ -73,7 +59,7 @@ function Home() {
             style={{
               fontSize: regular.fontSizeText,
               color: "#1A2C6D",
-              marginLeft: "4%",
+
               textAlign: "left",
               marginRight: "4%",
             }}
@@ -84,21 +70,26 @@ function Home() {
             in a few details for us to customize relevant information for you.
           </p>
         </div>
-        <form onSubmit={OnSubmit}>
-          <input type="text" placeholder="Search.." name="search" />
-          <button type="submit">Submit</button>
+        <form onSubmit={OnSubmit} style={{ marginTop: "4%" }}>
+          <input
+            type="text"
+            placeholder="Search.."
+            name="search"
+            style={{ fontSize: regular.fontSizeText, marginBottom: "4%" }}
+          />
+          <button
+            type="submit"
+            style={{
+              marginLeft: "1%",
+              background: "#1A2C6D",
+              color: "#FFF",
+              fontSize: regular.fontSizeText,
+            }}
+          >
+            Click to know your right and entitlement
+          </button>
         </form>
-        <button
-          style={{
-            background: "#1A2C6D",
-            color: "#FFF",
-            padding: "2%",
-            margin: "1%",
-            fontSize: regular.fontSizeText,
-          }}
-        >
-          Click to know your right and entitlement
-        </button>
+
         <Scheme rawJsonData={json} />
       </center>
     </div>
