@@ -5,3 +5,7 @@ export let regular = {
   fontSizeText: "20px",
   fontFamily: "Arial",
 };
+
+export const LINKS = {
+  disabilityHandbook: "#",
+};

@@ -17,7 +17,6 @@ function DisabilityInfo() {
       }).then(async (response) => {
         let tempJsonData = await response.json();
         setJsonData(tempJsonData);
-        console.log(tempJsonData);
       });
     }
     getData();

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Footer from "../components/footer";
 import Scheme from "../components/scheme";
 import Strip from "../components/strip";
 import { regular } from "../Responsive/constants";
@@ -8,7 +9,7 @@ function Home() {
 
   const OnSubmit = (e) => {
     e.preventDefault();
-    console.log(e.target[0].value);
+
     fetch("schemes.json", {
       headers: {
         "Content-Type": "application/json",
@@ -21,8 +22,6 @@ function Home() {
   };
 
   function checkIfContains(key, JsonData) {
-    console.log(key);
-    console.log(JsonData);
     const jsonArray = [];
     for (let i = 0; i < JsonData.length; i++) {
       const jsonElement = JsonData[i];
@@ -35,7 +34,6 @@ function Home() {
       }
     }
     SetJson(jsonArray);
-    console.log(jsonArray);
   }
 
   return (
