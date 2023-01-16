@@ -4,7 +4,7 @@ export default function Disability(props) {
     ? props.rawJsonData["disability"].map((jsonData, index) => (
         <div style={{ marginLeft: "14%", marginRight: "14%" }}>
           <h1>{jsonData["typeOfDisability"]}</h1>
-          <pre style={{ whiteSpace: "pre-wrap", fontSize: "20px" }}>
+          <pre style={{ whiteSpace: "pre-wrap", fontSize: "24px" }}>
             {parse(jsonData["Description"])}
           </pre>
           <hr style={{ marginTop: "1%", marginBottom: "1%" }} />

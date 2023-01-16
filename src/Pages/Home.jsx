@@ -57,7 +57,7 @@ function Home() {
             style={{
               fontSize: regular.fontSizeText,
               color: "#1A2C6D",
-
+              padding: "2%",
               textAlign: "left",
               marginRight: "4%",
             }}
