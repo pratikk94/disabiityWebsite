@@ -61,7 +61,9 @@ ol li {
   line-height: 4vh;
   margin: 10px;
 }
-
+p {
+  line-height: 4vh;
+}
 ul li {
   line-height: 4vh;
   margin: 10px;
