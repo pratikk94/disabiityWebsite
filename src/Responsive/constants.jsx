@@ -1,8 +1,8 @@
 export let regular = {
   fontSizeHeader: "32px",
-  fontSizeScheme: "24px",
+  fontSizeScheme: "26px",
   fontSizeSubHeader: "2vw",
-  fontSizeText: "20px",
+  fontSizeText: "24px",
   fontFamily: "Arial",
 };
 
