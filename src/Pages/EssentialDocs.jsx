@@ -28,7 +28,7 @@ function EssentialDocs() {
               display: "block",
               marginLeft: "13%",
               textAlign: "left",
-              fontSize: "20px",
+              fontSize: "24px",
             }}
           >
             A person with a benchmark disability as defined above will require a
@@ -84,6 +84,7 @@ function EssentialDocs() {
           />
         </div>
       </center>
+      <div style={{ height: "24%" }}></div>
     </div>
   );
 }

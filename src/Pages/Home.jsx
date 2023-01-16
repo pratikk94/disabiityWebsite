@@ -37,7 +37,7 @@ function Home() {
   }
 
   return (
-    <div style={{ height: "100%" }}>
+    <div style={{ height: "100%", marginBottom: "10vh" }}>
       <Strip />
       <center>
         <div className="Home">

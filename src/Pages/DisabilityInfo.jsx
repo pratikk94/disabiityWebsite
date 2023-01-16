@@ -29,6 +29,7 @@ function DisabilityInfo() {
         <Heading title="Disability Info" />
       </center>
       <Disability rawJsonData={jsonData} />
+      <div style={{ height: "8%" }}></div>
     </div>
   );
 }

@@ -58,6 +58,7 @@ function Resources() {
           </ol>
         </p>
       </center>
+      <div style={{ height: "8%" }}></div>
     </div>
   );
 }
