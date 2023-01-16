@@ -54,17 +54,17 @@ br {
   margin-top: 0; /* change this to whatever height you want it */
 }
 ul {
-  line-height: 4vh;
+  line-height: 5vh;
   margin: 0px;
 }
 ol li {
-  line-height: 4vh;
+  line-height: 5vh;
   margin: 10px;
 }
 p {
-  line-height: 4vh;
+  line-height: 5vh;
 }
 ul li {
-  line-height: 4vh;
+  line-height: 5vh;
   margin: 10px;
 }
