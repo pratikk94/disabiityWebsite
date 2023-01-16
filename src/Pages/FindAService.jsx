@@ -154,7 +154,7 @@ function FindAService() {
     <div style={{ height: "100%", width: "100%" }}>
       <Strip />
       <center>
-        <Heading title="Finding the service" />
+        <Heading title="Find a service" />
         <form className="findAServiceForm" onSubmit={OnSubmit}>
           <div>
             <p
