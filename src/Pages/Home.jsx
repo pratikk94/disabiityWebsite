@@ -90,6 +90,7 @@ function Home() {
 
         <Scheme rawJsonData={json} />
       </center>
+      <div style={{ height: "8vh" }}></div>
     </div>
   );
 }

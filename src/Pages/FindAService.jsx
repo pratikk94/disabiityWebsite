@@ -726,7 +726,7 @@ function FindAService() {
           minDisabilityPercentage={minDisabilityPercentage}
         />
       </center>
-      <div style={{ height: "8%" }}></div>
+      <div style={{ height: "8vh" }}></div>
     </div>
   );
 }
