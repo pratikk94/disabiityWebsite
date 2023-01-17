@@ -48,6 +48,9 @@ pre {
 input {
   font-family: "EB Garamond", serif;
 }
+button {
+  font-family: "EB Garamond", serif;
+}
 br {
   display: block; /* makes it have a width */
   content: ""; /* clears default height */

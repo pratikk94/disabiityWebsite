@@ -239,16 +239,19 @@ function FindAService() {
                   checked={isEducation}
                   className="form-check-input"
                 />
-                <p
+                <button
                   style={{
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
+                    background: isEducation ? activeColor : inActiveColor,
+                    border: "none",
                   }}
+                  onClick={onChangeEducation}
                 >
                   Educational Schemes
-                </p>
+                </button>
                 <img
                   src={require("../assets/book.png")}
                   style={{
@@ -288,16 +291,19 @@ function FindAService() {
                   checked={isHealth}
                   className="form-check-input"
                 />
-                <p
+                <button
                   style={{
+                    background: isHealth ? activeColor : inActiveColor,
+                    border: "none",
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
+                  onClick={onChangeHealth}
                 >
                   Healthcare scheme
-                </p>
+                </button>
                 <img
                   src={require("../assets/healthcare.png")}
                   style={{
@@ -337,16 +343,19 @@ function FindAService() {
                   checked={isSocial}
                   className="form-check-input"
                 />
-                <p
+                <button
                   style={{
+                    background: isSocial ? activeColor : inActiveColor,
+                    border: "none",
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
+                  onClick={onChangeSocial}
                 >
                   Social scheme
-                </p>
+                </button>
                 <img
                   src={require("../assets/people.png")}
                   style={{
@@ -386,16 +395,19 @@ function FindAService() {
                   checked={isTravel}
                   className="form-check-input"
                 />
-                <p
+                <button
                   style={{
+                    background: isTravel ? activeColor : inActiveColor,
+                    border: "none",
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
+                  onClick={onChangeTravel}
                 >
                   Travel related scheme
-                </p>
+                </button>
                 <img
                   src={require("../assets/travel-luggage.png")}
                   style={{
@@ -434,16 +446,19 @@ function FindAService() {
                   checked={isSkill}
                   className="form-check-input"
                 />
-                <p
+                <button
                   style={{
+                    background: isSkill ? activeColor : inActiveColor,
+                    border: "none",
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
                   }}
+                  onClick={onChangeSkill}
                 >
                   Skill related scheme
-                </p>
+                </button>
                 <img
                   src={require("../assets/pencil.png")}
                   style={{

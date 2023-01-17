@@ -84,7 +84,7 @@ function Home() {
               fontSize: regular.fontSizeText,
             }}
           >
-            Click to know your right and entitlement
+            Get started
           </button>
         </form>
 
