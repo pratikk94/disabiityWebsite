@@ -179,7 +179,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "360000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Online Applications are accepted <a href = 'http://onlinedetails.in/alimco/OnlineRegistration.aspx'>here</a><br/>One can also request along with required documents to the given address below:<br/>Ministry of Social Justice & Empowerment, <br/>Department of Empowerment of Person with Disabilities (Divyangjan), <br/>Pt. Deendayal Antodaya Bhavan, CGO Complex, <br/>5th Floor, New Delhi-110003"
     },
     {
       "id": 13,
@@ -194,7 +194,7 @@
       "maxAge": 45,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Apply online here"
     },
     {
       "id": 14,
@@ -239,7 +239,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "100000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Online form available at the <a href = 'https://edistrict.delhigovt.nic.in/'>eDistrict portal</a><br/>Detailed guidelines placed in the <a href = 'https://drive.google.com/file/d/1WWDdAV4P1vR48nUM3BNq4fbTgKI1qTsN/view'>link </a>."
     },
     {
       "id": 17,
@@ -254,7 +254,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Application in the prescribed format is to be submitted to the implementing agency for sanction of loan as per procedure & general terms & conditions as laid down, from time to time, by National Handicapped Finance and Development Corporation. For more information visit <a href='http://www.nhfdc.nic.in/schemes/DIVYANGJAN%20SWAVALAMBAN%20YOJANA.pdf'>here</a>"
     },
     {
       "id": 18,
@@ -269,7 +269,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "An individual or person with disabilities can claim the deduction under section 80U while reporting income in an income tax return.<br/>In cases of disabilities such as autism and cerebral palsy, Form 10-IA  on the website additionally needs to be filled up which can be found <a href = 'https://incometaxindia.gov.in/forms/income-tax%20rules/103120000000007833.pdf'>here</a>"
     },
     {
       "id": 19,
@@ -284,7 +284,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "The Income Tax Returns form can be found <a href='https://incometaxindia.gov.in/Pages/downloads/income-tax-return.aspx'>here</a>"
     },
     {
       "id": 20,
