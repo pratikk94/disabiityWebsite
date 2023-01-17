@@ -11,7 +11,7 @@
       "documentRequired": "<ol><li>Completed application form</li><li>2 Passport size photographs</li><li>Self Attested photocopy of proof of date of birth. Any one of  the following would be applicable-  <ul>    <li>Date of Birth Certificate issued by Municipal Corporation ofDelhi or any other local body    </li>    <li>Anganwadi record.</li>    <li>Hospital/Auxiliary Nurse Midwife (ANM) register record.    </li>    <li>An Undertaking by the Parents regarding Date of Birth\n    </li>  </ul></li><li>Self Attested photocopy of residential proof. Any one of the  following would be applicable-  <ul>    <li>Ration Card issued in the name of parents having the name ofthe child.    </li>    <li>Domicile certificate of child or parents.</li>    <li>Voter-I card of any of the parents.</li>    <li>Electricity bill /MTNL bill/ Telephone bill /Water bill.    </li>    <li>Bank Passbook in the name of child or parents</li>    <li>Aadhar card of parents/child</li>    <li>Passport in the name of any of the parents child</li>  </ul></li><li>Self-attested copy of DG Category Certificate (if the admission  is sought under DG Category (SC/ST/OBC etc.))</li><li>Self Attested photocopy of disability certificate</li>    </ol>",
       "minAge": 3,
       "maxAge": 18,
-      "maxFamilyIncome": "10000000",
+      "maxFamilyIncome": "800000",
       "minDisabilityPercentage": "40",
       "applicationProcess": "Online applications are available at <a link='https://edustud.nic.in//mis/studentadmission/webform1.aspx'>link</a>  For regular update and online application form, check edudel portal at <a href='https://edudel.nic.in'>link</a>"
     },
@@ -21,7 +21,7 @@
       "heading": "Entitlements for learning and wellbeing of Children with Special Needs in Delhi government schools",
       "timeline": "Not defined",
       "entitlements": "<ol><li>Admission in the neighbourhood school. Admission throughout the year and no rejection policy in admission</li><li>Age relaxation up to 4 years in upper age provided to Children with Disabilities (CwDs hereafter) for admission<li>Free Braille books to Children with Visual Impairmentv<li>Scribe facility to Children with Visual Impairment</li><li>Annual medical assessment camp for identification and assessment of physical and intellectual disabilities and counselling for parents of CWSN and distribution of free aids and appliances</li></ol>",
-      "eligibilityRequirement": "Children with Disabilities studying from Pre-School to Class XII in Schools of MCD, MCD Aided, NDMC, NDMC Aided, and DCB, Govt. & Govt. Aided Schools of Directorate of Education",
+      "eligibilityRequirement": " Children with Disabilities studying from Pre-School to Class XII in Schools of MCD, MCD Aided, NDMC, NDMC Aided, and DCB,  Govt. & Govt. Aided Schools of Directorate of Education  ",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
       "documentRequired": "Disability certificate",
       "financialAssistance": "The concerned head of the school after receipt of funds in the Samagra Shiksha Bank Account of the school shall ensure that the allowances are paid. The allowances shall be paid through Electronic Clearing System or by Cheque in the name of the student. <ol><li>Reader allowance at Rs. 2500/- per child to Students with Blindness having disability certificate</li><li>Escort allowance at Rs. 1500/- per child for 06 months to Students with Intellectual Disabilities and Blindness having disability certificates</li><li>Therapeutic Services at Rs. 2000/- per child to Students with Autism, Cerebral Palsy, Hearing Impairment, Intellectual Disabilities, Multiple Disabilities, Speech and Language Disability, Multiple Sclerosis, Muscular Dystrophy, Haemophilia, Thalassemia, and Dwarfism; and having a disability certificate</li><li>Transport allowance at Rs. 1500/- per child to Students with a disability certificate</li><li>Stipend at Rs. 2000/- per child to girls with disabilities having disability certificate</li><li>Financial assistance for large print books for children with low vision</li><ol>",
@@ -29,7 +29,7 @@
       "maxAge": 23,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "For guidelines for admissions for CWSN under EWS/ DG category, please click <a href='https://edustud.nic.in//mis/studentadmission/Instructionsbi-lingual%20_new%2021012018.pdf'>here</a>"
     },
     {
       "id": 3,
@@ -44,7 +44,7 @@
       "maxAge": 18,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Students studying in CBSE schools and desirous of availing the exemptions/concessions should approach the concerned Regional Office of CBSE through the Head of their Institution supported by relevant medical certificates and recommendations from the Head of the School.Only those students would be considered for grant of exemption/concession in whose respect the relevant disability category has been entered during registration in Class IX and/or XI."
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
       "maxAge": 19,
       "maxFamilyIncome": "250000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Apply online <a href = 'https://scholarships.gov.in/' >here</a>"
     },
     {
       "id": 5,
@@ -74,7 +74,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "250000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Apply online <a href = 'https://scholarships.gov.in/' >here</a>"
     },
     {
       "id": 6,
@@ -89,7 +89,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "600000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Apply online <a href = 'https://scholarships.gov.in/' >here</a>"
     },
     {
       "id": 7,
@@ -104,7 +104,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Apply online <a href='https://nfpwd.ugc.ac.in/'>here</a>"
     },
     {
       "id": 8,
@@ -119,7 +119,7 @@
       "maxAge": 35,
       "maxFamilyIncome": "600000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "The form is provided in Annexure 7 . Submit the duly filled form at the address of Department of Empowerment of Persons with Disabilities provided below- <br/>Under Secretary (Scholarships), Department of Empowerment of Persons  with Disabilities, Room No. 516, 5th Floor, Paryavaran Bhawan, CGO Complex, Lodhi Road, New Delhi – 110003; Email: pwdcgo@gmail.com"
     },
     {
       "id": 9,
@@ -129,12 +129,12 @@
       "entitlements": "Financial assistance upto Rs 5,00,000 to patients for treatment of any illness/disease in government hospitals run by Delhi government or central government or local bodies or autonomous hospitals under the state government",
       "eligibilityRequirement": "<ol><li>Annual family income upto Rs 3,00,000</li><li>Bonafide resident of Delhi for the last 3 years (prior to the date of submission of application).</li><li>Requiring treatment for any illness/disease in a government hospital run by Delhi govt./central govt./AIIMS/autonomous institutes of the state govt./ local bodies.</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:<br/>O/o Patient Welfare Cell,<br/>Room no 1, 6th Floor, Directorate of Health Services,<br/>F-17, Karkardooma,Delhi-110032;<br/>Phone - 011-22306851,<br/>Email- dirdhs@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, <br/>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li>    </ol>",
-      "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li><li>Any one of the following documents for verification of bonafide residency for the last 3 years:<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li></li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
+      "documentRequired": "The photocopies of these documents are to be attached with the application and the original is to be brought at the time of submission of same for verification<ol><li>Any one of the following documents for verification of income:<ul><li>National food security card</li><li>Income Certificate</li></ul></li><li>Any one of the following documents for verification of bonafide residency for the last 3 years:<ul><li>Domicile certificate issued from area Sub-Divisional Magistrate (SDM)</li><li>Ration card</li><li>Voter ID</li><li>Driving License</li><li>Extract from the electoral roll</li><li>Aadhar card</li></ul>Note: In case the patient is a minor, the birth certificate of the patient and the domicile proof of either of the parents (any one of the aforementioned documents)</li></li><li>Original estimate certificate issued by the treating doctor indicating the patient’s disease and the treatment required along with the estimated expenditure of the treatment duly certified by the medical superintendent</li><li>Two photographs of the concerned patient, duly attested by the treating doctor of the hospital</li><li>Photocopies of the treatment record</li><li>An affidavit for signature verification as given in the application form</li></ol>",
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Application is available at link <a href = 'http://health.delhigovt.nic.in/wps/wcm/connect/083fff004d3a3c1181a5f5d1e963ea50/DAJSAl.pdf?MOD=AJPERES&lmod=2016904728&CACHEID=083fff004d3a3c1181a5f5d1e963ea50'>here</a>  <br/>Application needs to be submitted at:<br/>O/o Patient Welfare Cell, Room no 1, 6th Floor, <br/>Directorate of Health Services, F-17, Karkardooma, Delhi-110032. Phone no. -  011-22306851 OR, In the O/o Medical Superintendent/ Medical Director of the concerned Government Hospital"
     },
     {
       "id": 10,
@@ -149,7 +149,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "300000",
       "minDisabilityPercentage": "not defined",
-      "applicationProcess": "0"
+      "applicationProcess": "Offline Application is available <a href='http://health.delhigovt.nic.in/wps/wcm/connect/083fff004d3a3c1181a5f5d1e963ea50/DAJSAl.pdf?MOD=AJPERES&lmod=2016904728&CACHEID=083fff004d3a3c1181a5f5d1e963ea50'>here</a><br/>Application needs to be submitted at:<br/>O/o Patient Welfare Cell, Room no 1, 6th Floor, <br/>Directorate of Health Services, F-17, <br/>Karkardooma, Delhi-110032. <br/>Phone no. -  011-22306851 <br/><br/>OR,<br/>In the O/o Medical Superintendent/ Medical Director of the concerned Government Hospital"
     },
     {
       "id": 11,
@@ -164,7 +164,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "240000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Online :Fill up the Online form <a href='http://adipcochlearimplant.in/Application-Instruction.aspx'>here</a> and attach the scanned copy of supporting documents<br/>Offline<br/> Application form can be downloaded from the link above.<br/><br/>Director,<br/> K.C. Marg, Bandra Reclamation, Bandra (w), <br/>Mumbai-400050 "
     },
     {
       "id": 12,
