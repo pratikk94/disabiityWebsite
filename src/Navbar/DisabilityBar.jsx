@@ -2,7 +2,7 @@ import FontSizeChanger from "react-font-size-changer";
 export default function DisabilityBar() {
   return (
     <div style={{ height: "5vh" }}>
-      <span style={{ float: "right", marginRight: "2vw" }}>
+      <span style={{ float: "right", marginRight: "20vw" }}>
         <FontSizeChanger
           targets={["p"]}
           onChange={(element, newValue, oldValue) => {
