@@ -26,7 +26,7 @@ function FindAService() {
   const [selectedType, setSelectedType] = useState([]);
   const [date, setDate] = useState("");
   const [annualIncome, setAnnualIncome] = useState(0);
-  const [minDisabilityPercentage, setMinDisabilityPercentage] = useState(100);
+
   // React Checkboxes onChange Methods
   const onChangeEducation = () => {
     if (!isEducation) {
@@ -128,7 +128,10 @@ function FindAService() {
     setDate(document.getElementById("DateOfBirth").value);
     if (document.getElementById("FamilyIncome").value > 0)
       setAnnualIncome(document.getElementById("FamilyIncome").value);
+    if (document.getElementById("disabilityPercentage").value > 0) {
+    }
 
+    console.log(selectedType);
     getData();
   };
 
@@ -213,41 +216,41 @@ function FindAService() {
           <div>
             <span
               className="form-check"
+              onClick={onChangeEducation}
               style={{
                 background: isEducation ? activeColor : inActiveColor,
-                width: "100%",
                 float: "left",
+                width: "100%",
+                marginLeft: "2%",
+                marginTop: "2%",
                 border:
                   "0.3% solid " + (isEducation ? activeColor : inActiveColor),
                 padding: "1%",
-                marginLeft: "2%",
-                marginTop: "2%",
                 borderRadius: "8px",
                 boxShadow: "0 0 8px #ddd",
               }}
-              onClick={onChangeEducation}
             >
               <label className="form-check-label">
                 <input
-                  type="checkbox"
                   style={{
                     display: "none",
                   }}
+                  type="checkbox"
                   checked={isEducation}
                   className="form-check-input"
                 />
                 <button
                   style={{
+                    background: isEducation ? activeColor : inActiveColor,
+                    border: "none",
                     fontSize: regular.fontSizeScheme,
                     display: "inline",
                     float: "left",
                     padding: "2vw",
-                    background: isEducation ? activeColor : inActiveColor,
-                    border: "none",
                   }}
                   onClick={onChangeEducation}
                 >
-                  Educational Schemes
+                  Educatioanl scheme
                 </button>
                 <img
                   src={require("../assets/book.png")}
@@ -689,6 +692,32 @@ function FindAService() {
             </span>
           </div>
                 */}
+          <div style={{ height: "4%", visibility: "hidden" }}></div>
+          <label>
+            <p
+              style={{
+                fontSize: regular.fontSizeText,
+                float: "left",
+                marginTop: "2%",
+                marginLeft: "1%",
+              }}
+            >
+              <strong>Disability Percentage</strong>
+            </p>
+            <input
+              type="number"
+              id="disabilityPercentage"
+              min="0"
+              max="100"
+              style={{
+                marginTop: "2%",
+                width: "32%",
+                height: "3%",
+                marginLeft: "-6%",
+                fontSize: regular.fontSizeText,
+              }}
+            ></input>
+          </label>
           <div className="form-group">
             <button
               type="submit"
@@ -709,7 +738,7 @@ function FindAService() {
           selectedType={selectedType}
           age={date}
           annualIncome={annualIncome}
-          minDisabilityPercentage={minDisabilityPercentage}
+          minDisabilityPercentage={100}
         />
       </center>
       <div style={{ height: "8vh" }}></div>
