@@ -43,6 +43,25 @@ function Home() {
   return (
     <div style={{ height: "100%", marginBottom: "10vh" }}>
       <Strip />
+      <form onSubmit={OnSubmit} style={{ marginTop: "-5%", marginLeft: "60%" }}>
+        <input
+          type="text"
+          placeholder="Search.."
+          name="search"
+          style={{ fontSize: regular.fontSizeText, marginBottom: "4%" }}
+        />
+        <button
+          type="submit"
+          style={{
+            marginLeft: "1%",
+            background: "#1A2C6D",
+            color: "#FFF",
+            fontSize: regular.fontSizeText,
+          }}
+        >
+          Get started
+        </button>
+      </form>
       <center>
         <div className="Home">
           <p
@@ -64,6 +83,7 @@ function Home() {
               padding: "2%",
               textAlign: "left",
               marginRight: "4%",
+              background: "transparent",
             }}
           >
             The Right Guide is for anyone seeking information on Rights &
@@ -72,34 +92,13 @@ function Home() {
             in a few details for us to customize relevant information for you.
           </p>
         </div>
-        <form
-          onSubmit={OnSubmit}
-          style={{ marginTop: "-20%", marginLeft: "60%" }}
-        >
-          <input
-            type="text"
-            placeholder="Search.."
-            name="search"
-            style={{ fontSize: regular.fontSizeText, marginBottom: "4%" }}
-          />
-          <button
-            type="submit"
-            style={{
-              marginLeft: "1%",
-              background: "#1A2C6D",
-              color: "#FFF",
-              fontSize: regular.fontSizeText,
-            }}
-          >
-            Get started
-          </button>
-        </form>
+
         {showFindAService ? (
-          <div style={{ marginTop: "15%" }}>
+          <div style={{ marginTop: "5%" }}>
             <FindAService />
           </div>
         ) : (
-          <div style={{ marginTop: "20%" }}>
+          <div style={{ marginTop: "10%" }}>
             <button
               onClick={clearFilter}
               style={{
