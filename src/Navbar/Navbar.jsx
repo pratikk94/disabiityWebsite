@@ -27,15 +27,6 @@ function NavBar() {
             </li>
             <li className="nav-item">
               <NavLink
-                to="/findaservice"
-                className="nav-links"
-                onClick={handleClick}
-              >
-                <p style={{ display: "inline" }}>Find a service</p>
-              </NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink
                 to="/disabilityInfo"
                 className="nav-links"
                 onClick={handleClick}

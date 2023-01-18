@@ -3,13 +3,17 @@ import Footer from "../components/footer";
 import Scheme from "../components/scheme";
 import Strip from "../components/strip";
 import { regular } from "../Responsive/constants";
+import FindAService from "./FindAService";
 import "./Home.css";
 function Home() {
   const [json, SetJson] = useState([]);
-
+  const [showFindAService, setFindAService] = useState(true);
+  const clearFilter = () => {
+    setFindAService(true);
+  };
   const OnSubmit = (e) => {
     e.preventDefault();
-
+    setFindAService(false);
     fetch("schemes.json", {
       headers: {
         "Content-Type": "application/json",
@@ -68,7 +72,10 @@ function Home() {
             in a few details for us to customize relevant information for you.
           </p>
         </div>
-        <form onSubmit={OnSubmit} style={{ marginTop: "4%" }}>
+        <form
+          onSubmit={OnSubmit}
+          style={{ marginTop: "-20%", marginLeft: "60%" }}
+        >
           <input
             type="text"
             placeholder="Search.."
@@ -87,8 +94,26 @@ function Home() {
             Get started
           </button>
         </form>
-
-        <Scheme rawJsonData={json} />
+        {showFindAService ? (
+          <div style={{ marginTop: "15%" }}>
+            <FindAService />
+          </div>
+        ) : (
+          <div style={{ marginTop: "20%" }}>
+            <button
+              onClick={clearFilter}
+              style={{
+                marginLeft: "1%",
+                background: "#1A2C6D",
+                color: "#FFF",
+                fontSize: regular.fontSizeText,
+              }}
+            >
+              Find by filters
+            </button>
+            <Scheme rawJsonData={json} />
+          </div>
+        )}
       </center>
       <div style={{ height: "8vh" }}></div>
     </div>

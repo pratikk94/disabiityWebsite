@@ -152,9 +152,7 @@ function FindAService() {
   const inActiveColor = "#f2f2f2";
   return (
     <div style={{ height: "100%", width: "100%" }}>
-      <Strip />
       <center>
-        <Heading title="Find a service" />
         <form className="findAServiceForm" onSubmit={OnSubmit}>
           <div style={{ marginTop: "-5%" }}>
             <p
@@ -164,7 +162,7 @@ function FindAService() {
                 marginTop: "1%",
               }}
             >
-              Date of birth
+              <strong>Date of birth</strong>
             </p>
             <input
               type="date"
@@ -187,7 +185,7 @@ function FindAService() {
                 float: "left",
               }}
             >
-              Annual family income
+              <strong>Annual family income</strong>
             </p>
             <input
               type="number"
@@ -210,8 +208,10 @@ function FindAService() {
                 display: "block",
               }}
             >
-              Any specific category of scheme and services, you are interested
-              in
+              <strong>
+                Any specific category of scheme and services, you are interested
+                in
+              </strong>
             </p>
           </div>
           <div>
@@ -703,7 +703,7 @@ function FindAService() {
                 marginLeft: "1%",
               }}
             >
-              Disability Percentage
+              <strong>Disability Percentage</strong>
             </p>
             <input
               type="number"
