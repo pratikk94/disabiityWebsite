@@ -693,32 +693,6 @@ function FindAService() {
             </span>
           </div>
                 */}
-          <div style={{ height: "4%" }}></div>
-          <label>
-            <p
-              style={{
-                fontSize: regular.fontSizeText,
-                float: "left",
-                marginTop: "2%",
-                marginLeft: "1%",
-              }}
-            >
-              <strong>Disability Percentage</strong>
-            </p>
-            <input
-              type="number"
-              id="disabilityPercentage"
-              min="0"
-              max="100"
-              style={{
-                marginTop: "2%",
-                width: "32%",
-                height: "3%",
-                marginLeft: "-6%",
-                fontSize: regular.fontSizeText,
-              }}
-            ></input>
-          </label>
           <div className="form-group">
             <button
               type="submit"
