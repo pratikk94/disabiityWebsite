@@ -35,13 +35,13 @@ function EssentialDocs() {
             Disability Certificate & Unique Disability ID to avail benefits
             under various schemes and entitlements.
             <ul>
-              <li>
+              <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                 Disability Certificate: Disability Certificate or Handicap
                 Certificate (as it may alternatively be called) is a document
                 that certifies the type and degree of disability that has
                 affected the person.
               </li>
-              <li>
+              <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                 {" "}
                 Unique Disability ID: Unique Disability ID is a single source
                 document for identification, and verification of the disabled
@@ -51,7 +51,7 @@ function EssentialDocs() {
             </ul>
           </p>
         </div>
-        <div style={{ float: "left", marginLeft: "13%" }}>
+        <div style={{ float: "left", marginLeft: "13%", width: "70%" }}>
           <FAQ
             question="What is the process to avail a Disability Certificate?"
             answer="Stepwise process of obtaining a disability certificate is as follows<ul><li>The disabled person must visit a Medical Hospital for the specific disability (List attached here)</li><li>The doctor will prescribe tests depending on disability.</li><li>Duly filled form the form attached here along with documents and test reports need to be submitted to the concerned Doctor in the Medical Hospital.</li></ul>"

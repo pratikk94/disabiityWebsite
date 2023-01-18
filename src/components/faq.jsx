@@ -6,7 +6,8 @@ export default function FAQ(props) {
         style={{
           float: "left",
           fontSize: "32px",
-          width: "80vw",
+          width: "70vw",
+          height: "6vh",
           textAlign: "left",
         }}
       >
@@ -18,8 +19,8 @@ export default function FAQ(props) {
           fontSize: "24px",
           textAlign: "left",
           marginBottom: "20px",
-          width: "50vw",
-
+          width: "70vw",
+          marginTop: "20px",
           whiteSpace: "pre-wrap",
         }}
       >
