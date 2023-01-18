@@ -54,7 +54,7 @@ function EssentialDocs() {
         <div style={{ float: "left", marginLeft: "13%", width: "70%" }}>
           <FAQ
             question="What is the process to avail a Disability Certificate?"
-            answer="Stepwise process of obtaining a disability certificate is as follows<ul><li>The disabled person must visit a Medical Hospital for the specific disability (List attached here)</li><li>The doctor will prescribe tests depending on disability.</li><li>Duly filled form the form attached here along with documents and test reports need to be submitted to the concerned Doctor in the Medical Hospital.</li></ul>"
+            answer="The stepwise process of obtaining a disability certificate is as follows; <ol><li>The disabled person must visit a medical hospital for the specific disability (List attached in Chapter II). </li><li>The doctor will prescribe tests depending on the disability. </li><li>The duly filled application form <a href='https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h'>link</a> along with documents and test reports needs to be submitted to the concerned doctor in the medical hospital. </li><li>A committee of doctors will consider the case and examine the person. 5. If approved, the person is asked to collect the certificate at a later date.</li></ol>"
           />
           <FAQ
             question="What are the documents required to be submitted by a disabled person to obtain a Disability Certificate?"

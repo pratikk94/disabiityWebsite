@@ -9,7 +9,6 @@ function NavBar() {
   const handleClick = () => setClick(!click);
   return (
     <>
-      <DisabilityBar />
       <nav className="navbar">
         <div className="nav-container">
           <NavLink to="/" className="nav-logo">

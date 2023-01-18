@@ -194,7 +194,7 @@
       "maxAge": 45,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "Apply online here"
+      "applicationProcess": "Apply online <a href='https://skillgrid.scpwd.in/'>here</a>"
     },
     {
       "id": 14,
@@ -209,7 +209,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Please visit the center to access the entitlements and services.<br/> Address: VRC for Handicapped, Plot No. 9-11, Karkar Dooma, Vikas Marg,<br/>Delhi-110092, <br/>Ph: 011- 22372704/ 22378234/ 22378235; Mbl.No. 9868827067<br/>E-mail: vrcdelhi@hub.nic.in<br/>"
     },
     {
       "id": 15,
@@ -224,7 +224,7 @@
       "maxAge": 59,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "List of empanelled training institutes here is attached <a href='https://drive.google.com/file/d/1NvclEzPwCUwgDLQlEngsXgD0VLIOp_xz/view'>here.</a>Please visit the institute to access the entitlements and services"
     },
     {
       "id": 16,
@@ -299,7 +299,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "0"
+      "applicationProcess": "Offline Concessional application forms can be obtained from the respective depot.  Filled forms with all documents can be submitted at the same depot."
     },
     {
       "id": 21,
@@ -314,7 +314,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "For PWD: Offline Submit the duly filled concession certificate to the prescribed medical hospitals <br/> The link to the concession certificate is given <a href='https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Passenger_Information_2018/Concession%20Certificate.pdf' >here</a><br/>For PWD: Online<br/> Railway concession card needs to be issued for booking tickets online through irctc.co.in. Procedure for the same is as follows<ol><li>Visit the nearest Divisional Railway Manager’s Office with all the relevant documents given below in original as well as self-attested photocopies</li><li>Concession Certificate or Unique Disability ID (UDID) Card</li><li>Identity Proof (e.g. Aadhaar Card)</li><li>Date of Birth Proof (Any government issued ID)</li><li>Address Proof  (Any government issued ID)</li><li>Passport size color photo</li><li>Attested photocopies of these documents.</li><li>Submit the application for issue of Railway Identity Card for Physically Challenged Persons for Ticketing to the Senior Divisional Commercial Manager (Sr. DCM) </li><li>Collect the card from the D.R.M Office upon verification</li><li>The railway photo identity card will have a 11 digit identification number which will be used for any subsequent booking online and offline</li></ol><br/>For Patients: Offline <br/><li>The concessional tickets can only be booked over the counter and not online</li><li>Two different forms for outward and return journey need to be submitted</li><li>The form for outward journey can be found on the link below: http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Onward.pdf</li><li>The form for return journey can be found on the link:  http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Returns.pdf</li><li>The concession would be provided after the ticket booking authority verifies the duly filled form, by Hospital authorities.</li>"
     },
     {
       "id": 22,
@@ -329,7 +329,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Ticket to be purchased 3 days before departure "
     },
     {
       "id": 23,
@@ -344,7 +344,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "0"
+      "applicationProcess": "Ticket to be purchased 3 days before departure."
     }
   ]
 }
