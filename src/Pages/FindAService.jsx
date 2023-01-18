@@ -128,10 +128,6 @@ function FindAService() {
     setDate(document.getElementById("DateOfBirth").value);
     if (document.getElementById("FamilyIncome").value > 0)
       setAnnualIncome(document.getElementById("FamilyIncome").value);
-    if (document.getElementById("disabilityPercentage").value > 0)
-      setMinDisabilityPercentage(
-        document.getElementById("disabilityPercentage").value
-      );
 
     getData();
   };
