@@ -156,11 +156,12 @@ function FindAService() {
       <center>
         <Heading title="Find a service" />
         <form className="findAServiceForm" onSubmit={OnSubmit}>
-          <div>
+          <div style={{ marginTop: "-5%" }}>
             <p
               style={{
                 fontSize: regular.fontSizeText,
                 float: "left",
+                marginTop: "1%",
               }}
             >
               Date of birth
@@ -174,11 +175,11 @@ function FindAService() {
               style={{
                 fontSize: regular.fontSizeText,
                 width: "32%",
-                marginLeft: "5%",
+                marginLeft: "6.1%",
               }}
             ></input>
           </div>
-          <div style={{ marginTop: "2%" }}>
+          <div style={{ marginTop: "1%" }}>
             <p
               style={{
                 fontSize: regular.fontSizeText,
