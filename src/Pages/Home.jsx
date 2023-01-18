@@ -59,7 +59,7 @@ function Home() {
             fontSize: regular.fontSizeText,
           }}
         >
-          Get started
+          Find by keyword
         </button>
       </form>
       <center>
