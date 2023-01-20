@@ -30,9 +30,15 @@ function Home() {
     for (let i = 0; i < JsonData.length; i++) {
       const jsonElement = JsonData[i];
       if (
-        JSON.stringify(jsonElement["heading"]).includes(key) ||
-        JSON.stringify(jsonElement["entitlements"]).includes(key) ||
-        JSON.stringify(jsonElement["eligibilityRequirement"]).includes(key)
+        JSON.stringify(jsonElement["heading"])
+          .toLowerCase()
+          .includes(key.toLowerCase()) ||
+        JSON.stringify(jsonElement["entitlements"])
+          .toLowerCase()
+          .includes(key.toLowerCase()) ||
+        JSON.stringify(jsonElement["eligibilityRequirement"])
+          .toLowerCase()
+          .includes(key.toLowerCase())
       ) {
         jsonArray.push(jsonElement);
       }
@@ -84,7 +90,7 @@ function Home() {
               display: "block",
             }}
           >
-            The right guide
+            The Right Guide
           </p>
           <p
             style={{
@@ -97,8 +103,8 @@ function Home() {
           >
             The Right Guide is for anyone seeking information on Rights &
             Entitlement, Resources & Support for Person(s) with disability in
-            Delhi. Start your search by clicking below on 'Get Started' and fill
-            in a few details for us to customize relevant information for you.
+            Delhi. Start your search by filling few details for us to customize
+            relevant information for you.
           </p>
         </div>
 

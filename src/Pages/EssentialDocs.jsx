@@ -34,7 +34,7 @@ function EssentialDocs() {
             A person with a benchmark disability as defined above will require a
             Disability Certificate & Unique Disability ID to avail benefits
             under various schemes and entitlements.
-            <ul>
+            <ul className="ol_main">
               <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                 Disability Certificate: Disability Certificate or Handicap
                 Certificate (as it may alternatively be called) is a document
@@ -54,11 +54,11 @@ function EssentialDocs() {
         <div style={{ float: "left", marginLeft: "13%", width: "70%" }}>
           <FAQ
             question="What is the process to avail a Disability Certificate?"
-            answer="The stepwise process of obtaining a disability certificate is as follows; <ol><li>The disabled person must visit a medical hospital for the specific disability (List attached in Chapter II). </li><li>The doctor will prescribe tests depending on the disability. </li><li>The duly filled application form <a href='https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h'>link</a> along with documents and test reports needs to be submitted to the concerned doctor in the medical hospital. </li><li>A committee of doctors will consider the case and examine the person. 5. If approved, the person is asked to collect the certificate at a later date.</li></ol>"
+            answer="The stepwise process of obtaining a disability certificate is as follows; <ol><li className='ul_li'>The disabled person must visit a medical hospital for the specific disability (To check the disability wise  list of authorized hospital click <a href='https://drive.google.com/file/d/1cKsBzelN7M0K10CEOOW064PdA7A6Av0t/view?usp=sharing'>here</a>). </li><li className='ul_li'>The doctor will prescribe tests depending on the disability. </li><li className='ul_li'>The duly filled application form <a href='https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h'>link</a> along with documents and test reports needs to be submitted to the concerned doctor in the medical hospital. </li><li className='ul_li'>A committee of doctors will consider the case and examine the person. 5. If approved, the person is asked to collect the certificate at a later date.</li></ol>"
           />
           <FAQ
             question="What are the documents required to be submitted by a disabled person to obtain a Disability Certificate?"
-            answer="<ul><li>Two recent coloured personal photos of the person with disability</li><li>Copy of the I.D. proof (Aadhar Card is best)</li><li>Copy of the address proof (Aadhar Card is best)</li><li>Copies of available medical reports</li><li>Copy of the previous Disability Certificate (in case it is being renewed)</li><ul>"
+            answer="<ul className='ol_main'><li className='ul_li'>Two recent coloured personal photos of the person with disability</li><li className='ul_li'>Copy of the I.D. proof (Aadhar Card is best)</li><li className='ul_li'>Copy of the address proof (Aadhar Card is best)</li><li className='ul_li'>Copies of available medical reports</li><li className='ul_li'>Copy of the previous Disability Certificate (in case it is being renewed)</li><ul className='ol_main'>"
           />
           <FAQ
             question="How long is the disability certificate valid for?"
@@ -75,7 +75,7 @@ function EssentialDocs() {
 
           <FAQ
             question="What are the documents required to be submitted by a disabled person to obtain a UDID??"
-            answer="<ul><li>Scanned copy of recent colour photo.</li><li>Scanned image of signature (Optional)</li><li>Scanned copy of Address Proof (Aadhar/Driving Licence/State Domicile etc.)</li><li>Scanned copy of Identity Proof (Aadhar Card/PAN Card/Driving Licence etc.)</li><li>Scanned copy of Disability Certificate (Only for those Persons with Disability who have been issued Disability Certificates by the respective Medical boards constituted at a State or District level. Disability wise list of medical authorities is placed here)</li>"
+            answer="<ul className='ol_main'><li className='ul_li'>Scanned copy of recent colour photo.</li><li className='ul_li'>Scanned image of signature (Optional)</li><li className='ul_li'>Scanned copy of Address Proof (Aadhar/Driving Licence/State Domicile etc.)</li><li className='ul_li'>Scanned copy of Identity Proof (Aadhar Card/PAN Card/Driving Licence etc.)</li><li className='ul_li'>Scanned copy of Disability Certificate (Only for those Persons with Disability who have been issued Disability Certificates by the respective Medical boards constituted at a State or District level. Disability wise list of medical authorities is placed here)</li>"
           />
 
           <FAQ

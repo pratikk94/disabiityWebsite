@@ -12,6 +12,23 @@
   width: 72%;
   box-shadow: 4px 4px lightGrey;
 }
+.FinancialEntitlement {
+  margin-left: -5%;
+}
+.FinancialEntitlementText {
+  text-align: left;
+  width: 80vw;
+  white-space: normal;
+  color: #1a2c6d;
+  margin-top: 2%;
+  font-size: 30px;
+}
+.FinancialEntitlementList {
+  margin-left: 5%;
+}
+.ul_main {
+  line-height: 24px;
+}
 
 @media screen and (max-width: 960px) {
   .findAServiceForm {
