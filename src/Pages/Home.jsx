@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import Footer from "../components/footer";
 import Scheme from "../components/scheme";
 import Strip from "../components/strip";
 import { regular } from "../Responsive/constants";
 import FindAService from "./FindAService";
-import "./Home.css";
+import "./Home.modules.css";
+
 function Home() {
   const [json, SetJson] = useState([]);
   const [showFindAService, setFindAService] = useState(true);
@@ -43,25 +43,35 @@ function Home() {
   return (
     <div style={{ height: "100%", marginBottom: "10vh" }}>
       <Strip />
-      <form onSubmit={OnSubmit} style={{ marginTop: "-5%", marginLeft: "60%" }}>
-        <input
-          type="text"
-          placeholder="Search.."
-          name="search"
-          style={{ fontSize: regular.fontSizeText, marginBottom: "4%" }}
-        />
-        <button
-          type="submit"
-          style={{
-            marginLeft: "1%",
-            background: "#1A2C6D",
-            color: "#FFF",
-            fontSize: regular.fontSizeText,
-          }}
-        >
-          Find by keyword
-        </button>
-      </form>
+      <div className="SearchBar">
+        <form onSubmit={OnSubmit}>
+          <input
+            type="text"
+            name="search"
+            className="searchBox"
+            placeholder="Search by keyword "
+            style={{
+              fontSize: regular.fontSizeText,
+              marginBottom: "4%",
+              padding: "1%",
+            }}
+          />
+          <button
+            type="submit"
+            className="submitButon"
+            style={{
+              marginLeft: "1%",
+              background: "#f2f2f2",
+              color: "#1A2C6D",
+              padding: "1%",
+              borderRadius: "10px",
+              fontSize: "2.5vh",
+            }}
+          >
+            Search
+          </button>
+        </form>
+      </div>
       <center>
         <div className="Home">
           <p
@@ -83,7 +93,6 @@ function Home() {
               padding: "2%",
               textAlign: "left",
               marginRight: "4%",
-              background: "transparent",
             }}
           >
             The Right Guide is for anyone seeking information on Rights &

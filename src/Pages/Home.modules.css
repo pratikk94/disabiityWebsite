@@ -10,8 +10,8 @@
 }
 
 .SearchBar {
-  margin-top: "-5%";
-  margin-left: "60%";
+  margin-top: -5%;
+  margin-left: 60%;
 }
 
 @media screen and (max-width: 960px) {
@@ -27,7 +27,15 @@
     display: 100%;
   }
   .SearchBar {
-    margin-top: "-3%";
-    margin-left: "60%";
+    margin-top: -18%;
+    margin-left: 5%;
+    align-items: center;
+  }
+  .searchBox {
+    width: 60%;
+  }
+  .submitButon {
+    font-size: 16px;
+    width: 30%;
   }
 }
