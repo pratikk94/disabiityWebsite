@@ -693,7 +693,7 @@ function FindAService() {
           </div>
                 */}
           <div style={{ height: "4%", visibility: "hidden" }}></div>
-          <label>
+          <label style={{ visibility: "hidden" }}>
             <p
               style={{
                 fontSize: regular.fontSizeText,
