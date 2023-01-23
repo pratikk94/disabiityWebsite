@@ -17,17 +17,34 @@ function Resources() {
               Disability Handbook
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Acts & Rule for the Welfare of Persons with Disabilities:
+              Acts & Rule for the Welfare of Persons with Disabilities from{" "}
+              <a href="https://socialwelfare.delhigovt.nic.in/content/acts-rule-welfare-persons-disabilities">
+                here
+              </a>
+              :
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Rights of the Persons with Disabilities Act, 2016 Click here
+                  Rights of the Persons with Disabilities Act, 2016 Click{" "}
+                  <a href="https://socialwelfare.delhigovt.nic.in/sites/default/files/All-PDF/RPWD%20ACT%202016.pdf">
+                    here
+                  </a>
                   to view.
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  National Trust Act, 1999 Click here to view.
+                  National Trust Act, 1999 Click{" "}
+                  <a href="https://socialwelfare.delhigovt.nic.in/sites/default/files/All-PDF/National_Trust_Act1999.pdf">
+                    {" "}
+                    here
+                  </a>{" "}
+                  to view.
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Delhi RPwD Rules, 2018 Click here to view.
+                  Delhi RPwD Rules, 2018 Click{" "}
+                  <a href="https://socialwelfare.delhigovt.nic.in/sites/default/files/All-PDF/Delhi%20RPwD%20Rules2018.pdf">
+                    {" "}
+                    here{" "}
+                  </a>
+                  to view.
                 </li>
               </ul>
             </li>
@@ -62,6 +79,9 @@ function Resources() {
               </ul>
             </li>
           </ol>
+          <a href="https://drive.google.com/file/d/1_NWWldCPV4zDLxbP7fdduoXF2enMbSNB/view">
+            Link to handbook
+          </a>
         </p>
       </center>
       <div style={{ height: "8%" }}></div>

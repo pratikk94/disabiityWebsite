@@ -54,6 +54,15 @@ export default function AboutUs() {
             Government Secretary level position. There are 5 Members who all
             report to the Chairperson.
           </p>
+          <p style={{ textAlign: "left", fontSize: "24px" }}>
+            For terms and conditions :
+            <a
+              style={{}}
+              href="https://drive.google.com/file/d/103BnW7WBnUBSPMMD41fg1pug5_KyEz1Q/view?usp=sharing"
+            >
+              click here
+            </a>
+          </p>
         </div>
       </center>
     </div>
