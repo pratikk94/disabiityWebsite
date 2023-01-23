@@ -5,7 +5,7 @@ import DisabilityInfo from "./Pages/DisabilityInfo";
 import EssentialDocs from "./Pages/EssentialDocs";
 import Resources from "./Pages/Resources";
 import NavBar from "./Navbar/Navbar";
-import FindAService from "./Pages/FindAService";
+import AboutUs from "./Pages/AboutUs";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
           <Route path="/disabilityInfo" element={<DisabilityInfo />} />
           <Route path="/essentialDocs" element={<EssentialDocs />} />
           <Route path="/resources" element={<Resources />} />
+          <Route path="/aboutUs" element={<AboutUs />} />
         </Routes>
       </BrowserRouter>
     </>

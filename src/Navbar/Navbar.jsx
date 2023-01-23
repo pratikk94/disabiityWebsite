@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import DisabilityBar from "./DisabilityBar";
 
 import "./Navbar.css";
 
@@ -50,6 +49,15 @@ function NavBar() {
                 onClick={handleClick}
               >
                 <p style={{ display: "inline" }}>Resources</p>
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink
+                to="/aboutus"
+                className="nav-links"
+                onClick={handleClick}
+              >
+                <p style={{ display: "inline" }}>About us</p>
               </NavLink>
             </li>
           </ul>

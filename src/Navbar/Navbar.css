@@ -110,7 +110,7 @@
     display: block;
     position: absolute;
     top: 0;
-    right: 0;
+    margin-right: -250px;
     height: 40px;
     width: 40px;
     transform: translate(-100%, 60%);
