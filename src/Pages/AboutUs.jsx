@@ -7,7 +7,9 @@ export default function AboutUs() {
       <Strip />
       <center>
         <Heading title="About us" />
-        <div style={{ marginLeft: "20%", marginRight: "20%" }}>
+        <div
+          style={{ marginLeft: "20%", marginRight: "20%", marginBottom: "10%" }}
+        >
           <p
             style={{
               float: "left",

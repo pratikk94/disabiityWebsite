@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
+import DisabilityBar from "./DisabilityBar";
 
 import "./Navbar.css";
 
@@ -8,6 +9,7 @@ function NavBar() {
   const handleClick = () => setClick(!click);
   return (
     <>
+      <DisabilityBar />
       <nav className="navbar">
         <div className="nav-container">
           <NavLink to="/" className="nav-logo">
