@@ -49,15 +49,17 @@ function Resources() {
               </ul>
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Grievance Redressal Bodies
+              Grievance Redressal Bodies Click{" "}
+              <a href="https://drive.google.com/file/d/1o6zX7x4lVv55O-qgXYeC8uYN9jhNZSXY/view?usp=share_link">
+                here
+              </a>{" "}
+              to know more.
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   Office of the State Commissioner for Persons with Disabilities
-                  (Page 40 of Handbook)
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Delhi Commission for Protection of Child Rights (DCPCR) (Page
-                  41 of Handbook)
+                  Delhi Commission for Protection of Child Rights (DCPCR)
                 </li>
               </ul>
             </li>
@@ -65,12 +67,18 @@ function Resources() {
               Repository of Institutions for Disabled Persons
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Institutions and Special Schools for the Welfare of Persons
-                  with Disabilities (Page 43 of Handbook)
+                  <a href="https://drive.google.com/file/d/1vZBlV75VlGn1dL8884PvrNt3K50AY3D-/view?usp=share_link">
+                    Institutions
+                  </a>{" "}
+                  and Special Schools for the Welfare of Persons with
+                  Disabilities (Page 43 of Handbook)
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Disability - wise Medical Authorities for issuance of
-                  disability certificate (Page 59 of Handbook)
+                  Disability - wise{" "}
+                  <a href="https://drive.google.com/file/d/1CXBzxu4FamL32jk_KkQNQel_sVf6aOxS/view?usp=share_link">
+                    Medical Authorities
+                  </a>{" "}
+                  for issuance of disability certificate (Page 59 of Handbook)
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   List of NGOs Registered under section 52 of PWD Act 1995 (Page
