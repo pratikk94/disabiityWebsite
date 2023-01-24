@@ -27,7 +27,7 @@ function Resources() {
                   Rights of the Persons with Disabilities Act, 2016 Click{" "}
                   <a href="https://socialwelfare.delhigovt.nic.in/sites/default/files/All-PDF/RPWD%20ACT%202016.pdf">
                     here
-                  </a>
+                  </a>{" "}
                   to view.
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
@@ -68,21 +68,21 @@ function Resources() {
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   <a href="https://drive.google.com/file/d/1vZBlV75VlGn1dL8884PvrNt3K50AY3D-/view?usp=share_link">
-                    Institutions
+                    Institutions and Special Schools for the Welfare of Persons
+                    with Disabilities (Page 43 of Handbook)
                   </a>{" "}
-                  and Special Schools for the Welfare of Persons with
-                  Disabilities (Page 43 of Handbook)
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  Disability - wise{" "}
                   <a href="https://drive.google.com/file/d/1CXBzxu4FamL32jk_KkQNQel_sVf6aOxS/view?usp=share_link">
-                    Medical Authorities
+                    Disability - wise Medical Authorities for issuance of
+                    disability certificate (Page 59 of Handbook)
                   </a>{" "}
-                  for issuance of disability certificate (Page 59 of Handbook)
                 </li>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-                  List of NGOs Registered under section 52 of PWD Act 1995 (Page
-                  85 of Handbook)
+                  <a href="https://socialwelfare.delhigovt.nic.in/sites/default/files/All-PDF/list%20of%20NGOs_0.pdf">
+                    List of NGOs Registered under section 52 of PWD Act 1995
+                    (Page 85 of Handbook)
+                  </a>
                 </li>
               </ul>
             </li>

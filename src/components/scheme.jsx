@@ -189,9 +189,12 @@ export default function Scheme(props) {
       </div>
     ));
   } else {
+    console.log(props.annualIncome);
+    console.log(props.rawJsonData["schemes"]);
+
     return props.rawJsonData["schemes"].map((jsonData, index) =>
       props.selectedType.indexOf(jsonData["type"]) > -1 &&
-      props.annualIncome <= jsonData["maxFamilyIncome"] &&
+      props.annualIncome <= parseInt(jsonData["maxFamilyIncome"]) &&
       props.minDisabilityPercentage > jsonData["minDisabilityPercentage"] &&
       age >= jsonData["minAge"] &&
       age <= jsonData["maxAge"] ? (
