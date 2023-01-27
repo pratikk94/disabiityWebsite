@@ -12,6 +12,7 @@ export default function DisabilityBar() {
           style={{
             display: "inline",
             paddingBottom: "2vw",
+            fontSize: "2vh",
           }}
         >
           <a href="https://drive.google.com/drive/folders/1FhyfR_BivDbBuTBzBUDWAAhemc2cmc12">

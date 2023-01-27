@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import Heading from "../components/heading";
 import Scheme from "../components/scheme";
-import Strip from "../components/strip";
+
 import { regular } from "../Responsive/constants";
 import "./FindAService.css";
 function FindAService() {
@@ -153,15 +152,17 @@ function FindAService() {
     <div style={{ height: "100%", width: "100%" }}>
       <center>
         <form className="findAServiceForm" onSubmit={OnSubmit}>
-          <div style={{ marginTop: "-5%" }}>
+          <div style={{ display: "flex" }}>
             <p
               style={{
                 fontSize: regular.fontSizeText,
                 float: "left",
                 marginTop: "1%",
+                flex: "50%",
+                textAlign: "left",
               }}
             >
-              <strong>Date of birth</strong>
+              <strong>Date of birth </strong>
             </p>
             <input
               type="date"
@@ -173,15 +174,18 @@ function FindAService() {
                 fontSize: regular.fontSizeText,
                 width: "32%",
                 marginLeft: "6.1%",
+                flex: "50%",
               }}
             ></input>
           </div>
-          <div style={{ marginTop: "1%" }}>
+          <div style={{ marginTop: "1%", display: "flex" }}>
             <p
               style={{
                 fontSize: regular.fontSizeText,
                 marginTop: "1%",
                 float: "left",
+                flex: "50%",
+                textAlign: "left",
               }}
             >
               <strong>Annual family income</strong>
@@ -192,8 +196,9 @@ function FindAService() {
               id="FamilyIncome"
               style={{
                 fontSize: regular.fontSizeText,
-                marginLeft: "-1%",
                 width: "32%",
+                marginLeft: "6.1%",
+                flex: "50%",
               }}
             ></input>
           </div>
