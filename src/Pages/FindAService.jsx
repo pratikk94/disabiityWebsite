@@ -255,7 +255,7 @@ function FindAService() {
                   }}
                   onClick={onChangeEducation}
                 >
-                  Educatioanl scheme
+                  Educational scheme
                 </button>
                 <img
                   src={require("../assets/book.png")}
