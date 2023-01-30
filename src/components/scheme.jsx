@@ -64,7 +64,7 @@ export default function Scheme(props) {
             marginTop: "1%",
           }}
         >
-          Eligibility Requirments
+          Eligibility Requirements
         </h1>
         <p
           style={{
@@ -248,7 +248,7 @@ export default function Scheme(props) {
               marginTop: "1%",
             }}
           >
-            Eligibility Requirments
+            Eligibility Requirements
           </h1>
           <p
             style={{
