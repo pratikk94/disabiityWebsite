@@ -22,7 +22,7 @@ function NavBar() {
             <img
               src={require("../assets/logo2.png")}
               alt="DCPCR logo"
-              style={{ maxWidth: "28vw", height: "auto" }}
+              style={{ maxWidth: "400px", height: "auto" }}
             />
             <span style={{ paddingBottom: "1vh" }}></span>
           </NavLink>

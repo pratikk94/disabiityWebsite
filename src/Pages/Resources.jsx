@@ -14,7 +14,28 @@ function Resources() {
         <p style={{ fontSize: "24px", marginLeft: "16%", textAlign: "left" }}>
           <ol>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Disability Handbook
+              Accesability handbook on rights and entitlements of Person with
+              Disabilities
+              <ul>
+                <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
+                  For Engish version click{" "}
+                  <a href="https://drive.google.com/file/d/11HrKH-2hXESA5Vnd8WcH9Z3unfkuWw_Z/view?usp=share_link">
+                    here
+                  </a>
+                </li>
+                <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
+                  For Hindi version click{" "}
+                  <a href="https://drive.google.com/file/d/1ULeiHbuS6H5fUFqoIAbcNLBSAqy3h2m3/view?usp=share_link">
+                    here
+                  </a>
+                </li>
+                <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
+                  For audio book click{" "}
+                  <a href="https://drive.google.com/drive/folders/1FhyfR_BivDbBuTBzBUDWAAhemc2cmc12">
+                    here
+                  </a>
+                </li>
+              </ul>
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
               Acts & Rule for the Welfare of Persons with Disabilities from{" "}
