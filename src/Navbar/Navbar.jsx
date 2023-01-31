@@ -16,10 +16,21 @@ function NavBar() {
             <img
               src={require("../assets/logo.jpg")}
               alt="DCPCR logo"
-              style={{ width: "20%", maxWidth: "80px", height: "auto" }}
+              style={{ width: "100%", maxWidth: "80px", height: "auto" }}
             />
+            <span style={{ paddingBottom: "1vh" }}></span>
           </NavLink>
-
+          <NavLink to="/" className="nav-logo">
+            <p
+              style={{
+                display: "inline",
+                fontSize: "1.5vw",
+                marginLeft: "-5vw",
+              }}
+            >
+              Delhi Commission for Protection of Child Rights
+            </p>
+          </NavLink>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <NavLink to="/" className="nav-links" onClick={handleClick}>
