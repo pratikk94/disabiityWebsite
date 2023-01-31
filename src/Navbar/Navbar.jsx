@@ -26,6 +26,8 @@ function NavBar() {
                 display: "inline",
                 fontSize: "1.5vw",
                 marginLeft: "-5vw",
+                color: "#741616",
+                fontWeight: "bold",
               }}
             >
               Delhi Commission for Protection of Child Rights
