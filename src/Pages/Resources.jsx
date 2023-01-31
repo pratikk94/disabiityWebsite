@@ -8,14 +8,14 @@ function Resources() {
       <Strip />
       <center>
         <Heading title="Resources" />
-        <p style={{ textAlign: "left", fontSize: "24px", marginLeft: "13%" }}>
-          Important Resources
-        </p>
+
         <p style={{ fontSize: "24px", marginLeft: "16%", textAlign: "left" }}>
           <ol>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Accesability handbook on rights and entitlements of Person with
-              Disabilities
+              <strong>
+                Accesability handbook on rights and entitlements of Person with
+                Disabilities
+              </strong>
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   For Engish version click{" "}
@@ -38,7 +38,9 @@ function Resources() {
               </ul>
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Acts & Rule for the Welfare of Persons with Disabilities from{" "}
+              <strong>
+                Acts & Rule for the Welfare of Persons with Disabilities from{" "}
+              </strong>
               <a href="https://socialwelfare.delhigovt.nic.in/content/acts-rule-welfare-persons-disabilities">
                 here
               </a>
@@ -70,11 +72,13 @@ function Resources() {
               </ul>
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Grievance Redressal Bodies Click{" "}
-              <a href="https://drive.google.com/file/d/1o6zX7x4lVv55O-qgXYeC8uYN9jhNZSXY/view?usp=share_link">
-                here
-              </a>{" "}
-              to know more.
+              <strong>
+                Grievance Redressal Bodies Click{" "}
+                <a href="https://drive.google.com/file/d/1o6zX7x4lVv55O-qgXYeC8uYN9jhNZSXY/view?usp=share_link">
+                  here
+                </a>{" "}
+                to know more.
+              </strong>
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   Office of the State Commissioner for Persons with Disabilities
@@ -85,7 +89,7 @@ function Resources() {
               </ul>
             </li>
             <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
-              Repository of Institutions for Disabled Persons
+              <strong>Repository of Institutions for Disabled Persons</strong>
               <ul>
                 <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
                   <a href="https://drive.google.com/file/d/1vZBlV75VlGn1dL8884PvrNt3K50AY3D-/view?usp=share_link">
