@@ -14,6 +14,12 @@ function NavBar() {
         <div className="nav-container">
           <NavLink to="/" className="nav-logo">
             <img
+              src={require("../assets/logo.png")}
+              alt="DCPCR logo"
+              style={{ maxWidth: "80px", height: "auto", display: "inline" }}
+            />
+
+            <img
               src={require("../assets/logo2.png")}
               alt="DCPCR logo"
               style={{ maxWidth: "28vw", height: "auto" }}
