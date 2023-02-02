@@ -18,6 +18,7 @@ function App() {
           <Route path="/essentialDocs" element={<EssentialDocs />} />
           <Route path="/resources" element={<Resources />} />
           <Route path="/aboutUs" element={<AboutUs />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </BrowserRouter>
     </>
