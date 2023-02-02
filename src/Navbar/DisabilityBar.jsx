@@ -3,7 +3,13 @@ import FontSizeChanger from "react-font-size-changer";
 export default function DisabilityBar() {
   return (
     <div style={{ height: "5vh" }}>
-      <span style={{ float: "right", marginRight: "20vw" }}>
+      <span
+        style={{
+          float: "right",
+          marginRight: "20vw",
+          justifyContent: "center",
+        }}
+      >
         <img
           src={require("../assets/audiobook.png")}
           style={{ width: "2vw", paddingTop: "1vw" }}
@@ -12,7 +18,8 @@ export default function DisabilityBar() {
           style={{
             display: "inline",
             paddingBottom: "2vw",
-            fontSize: "2vh",
+            fontSize: "20px",
+            justifyContent: "center",
           }}
         >
           <a href="https://drive.google.com/drive/folders/1FhyfR_BivDbBuTBzBUDWAAhemc2cmc12">
