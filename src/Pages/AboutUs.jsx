@@ -25,36 +25,37 @@ export default function AboutUs() {
             </strong>
             has been constituted under the Commission for Protection of Child
             Rights (CPCR) Act, 2005. It is the statutory watchdog of the
-            Government of Delhi on matters of child rights. Some of the child
-            rights the Commission works are:
-            <ol style={{ marginLeft: "5%" }}>
+            Government of Delhi on matters of child rights. The different
+            divisions within the Commission monitor the implementation of
+            rights, review safeguards, inquire into violations and advise the
+            government on policy formulation and amendments. The broad areas of
+            work include:
+            <ol>
               <li>
                 Protection of children from exploitation, abuse,
-                labour,trafficking, and violence.
+                labor,trafficking, and violence.{" "}
               </li>
-              <li>Protection of children from sexual offences</li>
-              <li>Protection of children from child marriage; </li>
-              <li>Right to Education;</li>
+              <li>Protection of children from sexual offenses </li>
+              <li>Protection of children from child marriage;</li>
+              <li>Right to Education;</li>{" "}
               <li>
                 Right to Health with emphasis on pregnancy care, infant
-                care,nutritional standards, immunisation, protection against
+                care,nutritional standards, immunization, protection against
                 malnutrition, etc
               </li>
               <li>Protection of rights of children with special needs;</li>
-              <li>Protection of children from substance abuse</li>
+              <li>Protection of children from substance abuse </li>
               <li>
                 Enforcement of legal protections for children in case they
-                commit offences and the necessary safeguards associated therein
-              </li>
+                commit offenses and the necessary safeguards associated therein
+              </li>{" "}
               <li>Right to play</li>
             </ol>
-            There are different divisions within the Commission for monitoring
-            the implementation of these rights, reviewing safeguards, inquiring
-            into violations and advise the government on policy formulation and
-            amendments. Each of these divisions is mapped to corresponding
-            departments of the government and is headed by a Member, a State
-            Government Secretary level position. There are 5 Members who all
-            report to the Chairperson.
+            For the present initiative, the Commission has collaborated with the
+            Ashoka University and the British Asian Trust as knowledge and
+            resource partners, specifically for working on information
+            dissemination and protection of rights of children with special
+            needs.
           </p>
           <p style={{ textAlign: "left", fontSize: "24px" }}>
             For terms and conditions :
