@@ -12,7 +12,7 @@ export default function DisabilityBar() {
       >
         <img
           src={require("../assets/audiobook.png")}
-          style={{ width: "2vw", paddingTop: "1vw" }}
+          style={{ width: "20px", paddingTop: "1vw" }}
         ></img>
         <p
           style={{
