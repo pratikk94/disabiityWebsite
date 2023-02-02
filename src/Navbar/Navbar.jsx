@@ -20,9 +20,10 @@ function NavBar() {
             />
 
             <img
+              className="dcpcrLogo"
               src={require("../assets/logo2.png")}
               alt="DCPCR logo"
-              style={{ maxWidth: "400px", height: "auto" }}
+              style={{ height: "auto" }}
             />
             <span style={{ paddingBottom: "1vh" }}></span>
           </NavLink>
