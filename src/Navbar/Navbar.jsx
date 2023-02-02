@@ -16,7 +16,7 @@ function NavBar() {
             <img
               src={require("../assets/logo.png")}
               alt="DCPCR logo"
-              style={{ maxWidth: "80px", height: "auto", display: "inline" }}
+              style={{ maxWidth: "60px", height: "auto", display: "inline" }}
             />
 
             <img
