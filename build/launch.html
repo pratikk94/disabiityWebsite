@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div style="height: 75%; width: 60%; justify-content: center">
+      <video
+        id="myVideo"
+        style="height: auto; width: 100%; display: block"
+        controls
+      >
+        <source src="video.mp4" type="video/mp4" />
+        Sorry, your browser doesn't support videos.
+      </video>
+      <button variant="contained">Launch</button>
+    </div>
+  </body>
+  <script>
+    var vid = document.getElementById("myVideo");
+    vid.onended = function () {
+      window.open("http://rpwd.dcpcr.delhi.gov.in/");
+    };
+  </script>
+</html>
