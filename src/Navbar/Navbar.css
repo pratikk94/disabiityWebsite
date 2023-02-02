@@ -91,7 +91,7 @@
     transition: all 0.5s ease;
   }
   .dcpcrLogo {
-    max-width: 200px;
+    max-width: 300px;
   }
   .nav-menu.active {
     background: #fff;
@@ -114,7 +114,7 @@
     display: block;
     position: absolute;
     top: 0;
-    margin-right: -200px;
+    margin-right: -400px;
     height: 40px;
     width: 40px;
     transform: translate(-100%, 60%);
