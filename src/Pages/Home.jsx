@@ -71,7 +71,7 @@ function Home() {
               color: "#1A2C6D",
               padding: "1%",
               borderRadius: "10px",
-              fontSize: "2.5vh",
+              fontSize: "2.5vw",
               background: "#FFF",
               boxShadow:
                 "0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)",
