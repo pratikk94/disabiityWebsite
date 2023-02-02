@@ -13,7 +13,7 @@
       "maxAge": 18,
       "maxFamilyIncome": "800000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Online applications are available at <a href='https://edustud.nic.in//mis/studentadmission/webform1.aspx'>link</a>   <br/>For regular update and online application form, check edudel portal at <a href='https://edudel.nic.in'>link</a>"
+      "applicationProcess": "Online applications are available at <a target='_blank' href='https://edustud.nic.in//mis/studentadmission/webform1.aspx'>link</a>   <br/>For regular update and online application form, check edudel portal at <a target='_blank' href='https://edudel.nic.in'>link</a>"
     },
     {
       "id": 2,
@@ -29,14 +29,14 @@
       "maxAge": 23,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "For guidelines for admissions for CWSN under EWS/ DG category, please click <a href='https://edustud.nic.in//mis/studentadmission/Instructionsbi-lingual%20_new%2021012018.pdf'>here</a>"
+      "applicationProcess": "For guidelines for admissions for CWSN under EWS/ DG category, please click <a target='_blank' href='https://edustud.nic.in//mis/studentadmission/Instructionsbi-lingual%20_new%2021012018.pdf'>here</a>"
     },
     {
       "id": 3,
       "type": "educational",
       "heading": "CBSE concessions and provisions for Children with Special Needs",
       "timeline": "<ol><li>Schools will inform to the PWD candidates about exemptions/concessions extended by CBSE during annual examinations; Schools will make a list of PWD students after submitting LOC: At the beginning of the academic session.</li><li>School will communicate CBSE approval to student approx by end of the August month.</li></ol>",
-      "entitlements": "<strong>Provisions related to Scribes/Readers:</strong><ol><li>The candidates can get their own scribe/reader (qualification one step below that of the candidate) or ask the examination centre (qualification not to be more than the minimum qualification criteria of the examination, however, the qualification should always be matriculation or above).</li><li>The candidate opting for own scribe must fill the form provided here. and submit it with school authority.</li><li>The candidate can take different scribe/reader for writing different papers but only one scribe per subject.</li></ol><br/>Provisions related to Compensatory Time:<ol><li>Compensatory time for paper of 3 hours duration: 60 minutes</li><li>Compensatory time for paper of 2½ hours duration: 50 minutes</li><li>Compensatory time for paper of 2 hours duration: 40 minutes</li><li>Compensatory time for paper of 1½ hours duration: 30 minutes</li></ol><strong>Other provisions:</strong><ol><li>Magnifying glass/Portable video magnifier is allowed to visually impaired candidates</li><li>Computer is permissible for typing answers, listening to questions and viewing questions in enlarged font</li><li>Relaxation in attendance is allowed for certain categories of disabilities for further detail click <a href ='https://drive.google.com/file/d/1DXp99oZW3N3usdgg_OOK-djGbWRp6v4N/view?usp=share_link'>link</a></li><li>Registration and Examination fee for classes IX to XII will not be charged from visually impaired candidates</ol><strong>Specific concessions for Class 10:</strong><ol><li>Can have an option of studying one compulsory language as opposed to two. </li><li>Besides one language any four from amongst the following groups can be offered:<br/>-Group 1: Mathematics, Science, Social Science, another language, Music (Any one), Painting, Home Science, Elements of Business, Elements of Book Keeping and Accountancy, Computer Applications<br/>-Group 2: Any one skill subject (except automotive) for regular candidates only<br/>Note: Information Technology from Group 2 cannot be offered if Computer Applications from Group 1 is opted.</li><li>Physio-therapeutic exercises are considered as equivalent to Health and Physical Education</li><li>Separate questions will be provided for students with visual impairment in question with visual inputs in Social Sciences</li></ol><strong>Specific concessions for Class 12:</strong><ol><li>A Person With Disability, as defined under the RPWD Act 2016, has the option of choosing Music (Any one), Painting, Home Science as the subject of study.</li><li>For practicals in the subjects of Physics, Chemistry and Biology an assessment containing multiple-choice questions are administered for PWD.</li><li>Question papers administered in Physics, Chemistry, Mathematics and Biology are without any visual input</li><li>lternative questions are provided for questions with visual inputs in History, Geography and Economics</li></ol><br/>Note: Disability wise list of exemptions and other educational entitlements for CWSN under CBSE here ",
+      "entitlements": "<strong>Provisions related to Scribes/Readers:</strong><ol><li>The candidates can get their own scribe/reader (qualification one step below that of the candidate) or ask the examination centre (qualification not to be more than the minimum qualification criteria of the examination, however, the qualification should always be matriculation or above).</li><li>The candidate opting for own scribe must fill the form provided here. and submit it with school authority.</li><li>The candidate can take different scribe/reader for writing different papers but only one scribe per subject.</li></ol><br/>Provisions related to Compensatory Time:<ol><li>Compensatory time for paper of 3 hours duration: 60 minutes</li><li>Compensatory time for paper of 2½ hours duration: 50 minutes</li><li>Compensatory time for paper of 2 hours duration: 40 minutes</li><li>Compensatory time for paper of 1½ hours duration: 30 minutes</li></ol><strong>Other provisions:</strong><ol><li>Magnifying glass/Portable video magnifier is allowed to visually impaired candidates</li><li>Computer is permissible for typing answers, listening to questions and viewing questions in enlarged font</li><li>Relaxation in attendance is allowed for certain categories of disabilities for further detail click <a target='_blank' href ='https://drive.google.com/file/d/1DXp99oZW3N3usdgg_OOK-djGbWRp6v4N/view?usp=share_link'>link</a></li><li>Registration and Examination fee for classes IX to XII will not be charged from visually impaired candidates</ol><strong>Specific concessions for Class 10:</strong><ol><li>Can have an option of studying one compulsory language as opposed to two. </li><li>Besides one language any four from amongst the following groups can be offered:<br/>-Group 1: Mathematics, Science, Social Science, another language, Music (Any one), Painting, Home Science, Elements of Business, Elements of Book Keeping and Accountancy, Computer Applications<br/>-Group 2: Any one skill subject (except automotive) for regular candidates only<br/>Note: Information Technology from Group 2 cannot be offered if Computer Applications from Group 1 is opted.</li><li>Physio-therapeutic exercises are considered as equivalent to Health and Physical Education</li><li>Separate questions will be provided for students with visual impairment in question with visual inputs in Social Sciences</li></ol><strong>Specific concessions for Class 12:</strong><ol><li>A Person With Disability, as defined under the RPWD Act 2016, has the option of choosing Music (Any one), Painting, Home Science as the subject of study.</li><li>For practicals in the subjects of Physics, Chemistry and Biology an assessment containing multiple-choice questions are administered for PWD.</li><li>Question papers administered in Physics, Chemistry, Mathematics and Biology are without any visual input</li><li>lternative questions are provided for questions with visual inputs in History, Geography and Economics</li></ol><br/>Note: Disability wise list of exemptions and other educational entitlements for CWSN under CBSE here ",
       "eligibilityRequirement": "Child must be a student of class X/XII under CBSE, or of class I-XII in schools under Directorate of Education, Govt of NCT of Delhi",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
       "documentRequired": "Disability certificate",
@@ -44,13 +44,13 @@
       "maxAge": 18,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "<ol><li>For availing any exemption, parents will have to make a request to school, through a written application <a href = 'https://docs.google.com/document/d/1MwYFVNFN4RXbQw2JVJKlIKzCu-j8yJByEksNwp41oEg/edit'>link</a>  along with copy of certificate of disability. The School will acknowledge the request made by the candidate. </li><li>School will forward the request to concerned Regional Office of the Board within 07 days of its receipt alongwith specific recommendation. In case of rejection by the school, the same should also be sent to Board along with reasons of such rejection. </li><li>Regional Office will examine the request in accordance with the rules of the Board. In case of rejection, reasons for the same will be intimated.  </li><li>Only those students would be considered for grant of exemption/concession in whose respect relevant category has been entered  during registration in Class IX and/or XI.  </li></ol>"
+      "applicationProcess": "<ol><li>For availing any exemption, parents will have to make a request to school, through a written application <a target='_blank' href = 'https://docs.google.com/document/d/1MwYFVNFN4RXbQw2JVJKlIKzCu-j8yJByEksNwp41oEg/edit'>link</a>  along with copy of certificate of disability. The School will acknowledge the request made by the candidate. </li><li>School will forward the request to concerned Regional Office of the Board within 07 days of its receipt alongwith specific recommendation. In case of rejection by the school, the same should also be sent to Board along with reasons of such rejection. </li><li>Regional Office will examine the request in accordance with the rules of the Board. In case of rejection, reasons for the same will be intimated.  </li><li>Only those students would be considered for grant of exemption/concession in whose respect relevant category has been entered  during registration in Class IX and/or XI.  </li></ol>"
     },
     {
       "id": 4,
       "type": "educational",
       "heading": "Pre- Matric Scholarship for PWD",
-      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
+      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a target='_blank' href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "Pre-Matric Scholarship is to support students with disabilities for their study in classes IX and X onwards so that the incidence of drop-out, especially in the transition from the elementary to the secondary stage is minimized.",
       "eligibilityRequirement": "<ol><li>Full-time student of class IX or class X in a government recognised school.</li><li>40% or more disability</li><li>Family income not more than Rs 2,50,000 per annum</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
@@ -59,13 +59,13 @@
       "maxAge": 19,
       "maxFamilyIncome": "250000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Apply online <a href = 'https://scholarships.gov.in/' >here</a>"
+      "applicationProcess": "Apply online <a target='_blank' href = 'https://scholarships.gov.in/' >here</a>"
     },
     {
       "id": 5,
       "type": "educational",
       "heading": "Post Matric Scholarship for PWD",
-      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
+      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a target='_blank' href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "Post-Matric Scholarship is to support students with disabilities for their study in classes XI and XII onwards so that the incidence of drop-out, especially in the transition from the secondary to the higher secondary stage is minimized.",
       "eligibilityRequirement": "<ol><li>Students studying in all recognised post-matriculation courses. Courses at the level of undergraduate, postgraduate degree/diploma/ certificate are also covered under this scheme</li><li>40% or more disability</li><li>Family income not more than Rs 2,50,000 per annum</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
@@ -74,13 +74,13 @@
       "maxAge": 100,
       "maxFamilyIncome": "250000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Apply online <a href = 'https://scholarships.gov.in/' >here</a>"
+      "applicationProcess": "Apply online <a target='_blank' href = 'https://scholarships.gov.in/' >here</a>"
     },
     {
       "id": 6,
       "type": "educational",
       "heading": "Top Class Education",
-      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a href='http://www.scholarships.gov.in'>link</a>",
+      "timeline": "Opening and Closing dates for acceptance of applications are decided by the DBT Mission, Cabinet Secretariat and are available in National Scholarship Portal, <a target='_blank' href='http://www.scholarships.gov.in'>link</a>",
       "entitlements": "The Scholarship for Top Class Education aims at recognizing and promoting quality education amongst students with disabilities by providing full financial support. It covers students with disabilities (SwDs) for pursuing studies at the level of graduate and post-graduate degree or diploma in notified institutes (List attached here) of excellence in education identified by DEPwD.",
       "eligibilityRequirement": "<ol><li>Be pursuing studies at graduate/postgraduate degree/diploma level in notified institutions of excellence in education</li><li>40% or more disability</li><li>Annual family income of less than Rs 6,00,000 per annum.</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>: <br></br>Directorate of Education, <br></br>Room No.12 Old Secretariat, near Vidhan  Sabha Metro Station, <br></br>Civil Lines, New Delhi, Delhi  110054; 011 2389 0363; diredu@nic.in</li><li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
@@ -89,7 +89,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "600000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "<ol><li>Apply online at <a href='https://scholarships.gov.in/'>link</a><br/></li><li>FAQs for applying Scholarships on the National Scholarship Portal - Click here <a href='https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf'>link</a></li></ol>"
+      "applicationProcess": "<ol><li>Apply online at <a target='_blank' href='https://scholarships.gov.in/'>link</a><br/></li><li>FAQs for applying Scholarships on the National Scholarship Portal - Click here <a target='_blank' href='https://scholarships.gov.in/public/schemeGuidelines/DEPDFAQ.pdf'>link</a></li></ol>"
     },
     {
       "id": 7,
@@ -104,7 +104,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Apply online <a href='https://nfpwd.ugc.ac.in/'>here</a>"
+      "applicationProcess": "Apply online <a target='_blank' href='https://nfpwd.ugc.ac.in/'>here</a>"
     },
     {
       "id": 8,
@@ -164,7 +164,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "240000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "<br/>Online <br/>Fill up the Online form at this link and attach the scanned copy of supporting documents <a href='http://adipcochlearimplant.in/Application-Instruction.aspx '>link</a>Offline <ol><li>Application form can be downloaded from the link above or is provided as (https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h ).</li><li>Send the filled application with all the required supporting documents to: Director, Ali Yavar Jung National Institute for the Hearing Handicapped, K.C. Marg, Bandra Reclamation, Bandra (W), Mumbai-400050 superscribing ‘Application for ADIP Cochlear Implant Service’</li></ol>"
+      "applicationProcess": "<br/>Online <br/>Fill up the Online form at this link and attach the scanned copy of supporting documents <a target='_blank' href='http://adipcochlearimplant.in/Application-Instruction.aspx '>link</a>Offline <ol><li>Application form can be downloaded from the link above or is provided as (https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h ).</li><li>Send the filled application with all the required supporting documents to: Director, Ali Yavar Jung National Institute for the Hearing Handicapped, K.C. Marg, Bandra Reclamation, Bandra (W), Mumbai-400050 superscribing ‘Application for ADIP Cochlear Implant Service’</li></ol>"
     },
     {
       "id": 12,
@@ -172,14 +172,14 @@
       "heading": "Assistance to Disabled Persons for Purchase/ Fitting of Aids and Appliances (ADIP)",
       "timeline": "Applications are accepted on a rolling basis",
       "entitlements": "<ol><li>For income upto Rs 22,500 full assistance for the cost of aids and appliances will be provided</li><li>For income between Rs 22,501-30,000 assistance of 50% of the cost of aids and appliances will be provided</li><li>The list of types of aids and appliances is provided here.</li><li>Travelling cost would be admissible separately to the PwD and one escort limited to bus fare or railway, subject to a limit of Rs. 250/- each person, irrespective of number of visits to the centre.</li><li>Boarding and lodging expenses at the rate of Rs. 100/- per day for a maximum duration of 15 days would be admissible for patients as well as one escort/attendant only for those whose total income is upto Rs 22,500/- per month. Boarding and lodging expenses will be admissible for the following -<ul className='ul_main'><li  className='ul_li'>To attend the camp for receiving aids and assistive devices</li><li className='ul_li'>Locomotor: Corrective/reconstructive surgery, cases requiring stay for fitment of artificial limb/caliper</li><li className='ul_li'>Hearing: Cases requiring stay for ear mould fabrication/fitment</li></ul><li>Essential medical/surgical correction needed prior to fitment of aids/appliances will be provided as follows<ul className='ul_main'><li  className='ul_li'>Rs 1,500/- for hearing & speech impaired.</li><li className='ul_li'>Rs 3,000/- for the visually disabled.</li><li className='ul_li'>Rs 15,000/- for orthopedically disabled.</li></ul></li></ol>",
-      "eligibilityRequirement": "<ol><li>An Indian citizen of any age.</li><li>Holds a 40% Disability Certificate.</li><li>Has monthly income from all sources not exceeding Rs. 30,000/- per month.</li><li>In the case of dependents, the income of parents/guardians should not exceed Rs. 30,000/- per month.</li><li>Who have not received assistance during the last 3 years for the same purpose from any source. However, for children below 12 years of age, this limit would be one year.</li><li>Income certificate of beneficiaries staying in orphanages and half-way homes etc. will be accepted on certification of District Collector or Head of the organization concerned.</li></ol>To know more about ADIP click on <a href='http://adipcochlearimplant.in/ADIP_PDF/Revised_ADIPScheme2022.pdf'>link</a> here",
+      "eligibilityRequirement": "<ol><li>An Indian citizen of any age.</li><li>Holds a 40% Disability Certificate.</li><li>Has monthly income from all sources not exceeding Rs. 30,000/- per month.</li><li>In the case of dependents, the income of parents/guardians should not exceed Rs. 30,000/- per month.</li><li>Who have not received assistance during the last 3 years for the same purpose from any source. However, for children below 12 years of age, this limit would be one year.</li><li>Income certificate of beneficiaries staying in orphanages and half-way homes etc. will be accepted on certification of District Collector or Head of the organization concerned.</li></ol>To know more about ADIP click on <a target='_blank' href='http://adipcochlearimplant.in/ADIP_PDF/Revised_ADIPScheme2022.pdf'>link</a> here",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Department of Empowerment of Persons with Disabilities (Divyangjan) <br/>5th Floor, Pt Deen Dayal Antyodaya Bhawan CGO Complex, <br/>New Delhi, <br/>Email - pwdcgo@gmail.com<li><strong>At Appellate Level</strong>:<br></br>Delhi Commission  For Protection of Child Rights,<br></br>5th Floor, ISBT  Building, Kashmere Gate, New Delhi, Delhi 110006;<br></br>Phone  - 011-23862685;  <br></br>Helpline no: 9311551393<br></br>Email - dcpcr@hotmail.com</li>    </ol>",
       "documentRequired": "<ol><li>Proof of identity</li><li>Identity proof of beneficiaries (Photocopy of any one)</li><ul className='ul_main'><li className='ul_li'>Passport</li><li className='ul_li'>Driving license</li><li className='ul_li'>Property card</li><li className='ul_li'>Passbook of a nationalized bank with photo ID</li><li className='ul_li'>PAN Card</li><li className='ul_li'>Freedom fighter’s identity card</li><li className='ul_li'>Employee government ID card</li><li className='ul_li'>Ration card with photo ID</li><li className='ul_li'>Weapon’s license</li><li className='ul_li'>Pensioner’s card</li><li className='ul_li'>Employment card issued by employment guarantee scheme (EGS) authorities</li><li className='ul_li'>Photo ID card issued by Ministry of Labour for employment insurance scheme (EIS)</li><li className='ul_li'>Photo identity card issued by competent authority for Scheduled Caste/ Tribes and Others Backward Castes.</li><li className='ul_li'>Photo identity card issued by competent authority for handicapped persons</li><li className='ul_li'>Post office saving passbook with photo ID</li><li className='ul_li'>Aadhar card</li><li className='ul_li'>Voter ID</li></ul><li>Income certificate from Revenue Agencies / BPL Card / MGNREGA Card / Disability Pension Card / Certificate by M.P./MLA/Councilor/Gram Pradhan failing which Notarized Affidavit C/o Implementing Agencies may be accepted for providing aids/ appliances to PwDs. Income certificate of beneficiaries staying in orphanages and half-way homes etc. may be accepted on certification of District Collector or Head of the organization concerned. Such beneficiaries will be provided aids & appliances under this Scheme by ALIMCO only.</li><li>Disability Certificate</li></ol>",
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "360000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Online Applications are accepted at  <a href='http://onlinedetails.in/alimco/OnlineRegistration.aspx'>link</a><br/>One can also request offline along with the required documents to the given address below:<br/>Ministry of Social Justice & Empowerment,<br/> Department of Empowerment of Person with Disabilities (Divyangjan), <br/>Pt. Deendayal Antodaya Bhavan, <br/>CGO Complex, 5th Floor, New Delhi-110003"
+      "applicationProcess": "Online Applications are accepted at  <a target='_blank' href='http://onlinedetails.in/alimco/OnlineRegistration.aspx'>link</a><br/>One can also request offline along with the required documents to the given address below:<br/>Ministry of Social Justice & Empowerment,<br/> Department of Empowerment of Person with Disabilities (Divyangjan), <br/>Pt. Deendayal Antodaya Bhavan, <br/>CGO Complex, 5th Floor, New Delhi-110003"
     },
     {
       "id": 13,
@@ -194,7 +194,7 @@
       "maxAge": 45,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "Apply online <a href='https://skillgrid.scpwd.in/'>here</a>"
+      "applicationProcess": "Apply online <a target='_blank' href='https://skillgrid.scpwd.in/'>here</a>"
     },
     {
       "id": 14,
@@ -224,7 +224,7 @@
       "maxAge": 59,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "List of empanelled training institutes here is attached <a href='https://drive.google.com/file/d/1NvclEzPwCUwgDLQlEngsXgD0VLIOp_xz/view'>here.</a>Please visit the institute to access the entitlements and services"
+      "applicationProcess": "List of empanelled training institutes here is attached <a target='_blank' href='https://drive.google.com/file/d/1NvclEzPwCUwgDLQlEngsXgD0VLIOp_xz/view'>here.</a>Please visit the institute to access the entitlements and services"
     },
     {
       "id": 16,
@@ -234,12 +234,12 @@
       "entitlements": "Financial assistance of Rs 2500 per month.",
       "eligibilityRequirement": "<ol><li>Person with 40% or more disability of any age</li><li>Family income less than Rs. 1,00,000/- per annum.</li><li>Resident of NCT of Delhi for minimum 5 years preceding the date of submission of application.</li><li>Should have a 'single-operated' account in any Bank or Post Office for receiving the payment through electronic clearing system</li><li>Must not be receiving any pension/financial assistance from any other government bodies or any other source for this purpose</li></ol>",
       "grievanceRedressalBoard": "<ol><li><strong>At Department Level</strong>:Director of Social Welfare,<br/>Department of Social Welfare, <br/>Govt. of NCT of Delhi,GLNS Complex, Delhi Gate <br/>New Delhi - 110 001<br/>Phone no:23314810, Fax:23714826, <br/>Email -dsw@nic.in</li><li><strong>At Appellate Level</strong>:<br/>Office of Chief Commissioner for Persons with Disabilities(Divyangjan), <br/>5th Floor, NISD Building, Plot No.G-2, <br/>Sector-10, New Delhi-110075, </>Phone: 011-20892364, 20892275, <br/>E-mail: ccpd@nic.in</li></ol>",
-      "documentRequired": "<ol><li>Adhar card is mandatory</li><li>Age proof (As in the 10th Marksheet or any other ID issued by the government)</li><li>Residence proof (Aadhar Card would be best)</li><li>Bank account number (Single account)</li><li>Disability Certificate issued by a Govt. Hospital</li><li>One passport size photo of the applicant</li><li>Income self-declaration in the format given on the portal at the following <a href='https://edistrict.delhigovt.nic.in/Downloads/ApplicationForm/SelfDeclaration_Social_Income.pdf'>link</a></li></ol>",
+      "documentRequired": "<ol><li>Adhar card is mandatory</li><li>Age proof (As in the 10th Marksheet or any other ID issued by the government)</li><li>Residence proof (Aadhar Card would be best)</li><li>Bank account number (Single account)</li><li>Disability Certificate issued by a Govt. Hospital</li><li>One passport size photo of the applicant</li><li>Income self-declaration in the format given on the portal at the following <a target='_blank' href='https://edistrict.delhigovt.nic.in/Downloads/ApplicationForm/SelfDeclaration_Social_Income.pdf'>link</a></li></ol>",
       "minAge": 0,
       "maxAge": 100,
       "maxFamilyIncome": "100000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "<ol><li>Check the list of empanelled training institutes click here <a href='https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h'>link</a></li><li>Please visit the institute to access the entitlements and services.</li></ol>Online form available at the eDistrict portal on the following link: https://edistrict.delhigovt.nic.in/ . Detailed guidelines can be found here <a href='https://docs.google.com/document/d/1vRIeXoKPsYvZjUFoPN8WorAsbFd4_WRh/edit'>link</a>"
+      "applicationProcess": "<ol><li>Check the list of empanelled training institutes click here <a target='_blank' href='https://drive.google.com/drive/folders/161UkRTefpI2TP0MngIprr2Sa3WBUPV7h'>link</a></li><li>Please visit the institute to access the entitlements and services.</li></ol>Online form available at the eDistrict portal on the following link: https://edistrict.delhigovt.nic.in/ . Detailed guidelines can be found here <a target='_blank' href='https://docs.google.com/document/d/1vRIeXoKPsYvZjUFoPN8WorAsbFd4_WRh/edit'>link</a>"
     },
     {
       "id": 17,
@@ -254,7 +254,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "Application in the prescribed format is to be submitted to the implementing agency for sanction of loan as per procedure & general terms & conditions as laid down, from time to time, by National Handicapped Finance and Development Corporation. For more information check <a href='https://docs.google.com/document/d/1rIxrnzSQspCaRRffSFWumu1CwCRwsZR1la-FzfH9YSI/edit'>link</a>"
+      "applicationProcess": "Application in the prescribed format is to be submitted to the implementing agency for sanction of loan as per procedure & general terms & conditions as laid down, from time to time, by National Handicapped Finance and Development Corporation. For more information check <a target='_blank' href='https://docs.google.com/document/d/1rIxrnzSQspCaRRffSFWumu1CwCRwsZR1la-FzfH9YSI/edit'>link</a>"
     },
     {
       "id": 18,
@@ -269,7 +269,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "An individual or person with disabilities can claim the deduction under section 80U while reporting income in an income tax return.<br/>In cases of disabilities such as autism and cerebral palsy, Form 10-IA  on the website additionally needs to be filled up which can be found <a href = 'https://incometaxindia.gov.in/forms/income-tax%20rules/103120000000007833.pdf'>here</a>"
+      "applicationProcess": "An individual or person with disabilities can claim the deduction under section 80U while reporting income in an income tax return.<br/>In cases of disabilities such as autism and cerebral palsy, Form 10-IA  on the website additionally needs to be filled up which can be found <a target='_blank' href = 'https://incometaxindia.gov.in/forms/income-tax%20rules/103120000000007833.pdf'>here</a>"
     },
     {
       "id": 19,
@@ -284,7 +284,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "40",
-      "applicationProcess": "The Income Tax Returns form can be found <a href='https://incometaxindia.gov.in/Pages/downloads/income-tax-return.aspx'>here</a>"
+      "applicationProcess": "The Income Tax Returns form can be found <a target='_blank' href='https://incometaxindia.gov.in/Pages/downloads/income-tax-return.aspx'>here</a>"
     },
     {
       "id": 20,
@@ -314,7 +314,7 @@
       "maxAge": 100,
       "maxFamilyIncome": "10000000",
       "minDisabilityPercentage": "0",
-      "applicationProcess": "For PWD: Offline Submit the duly filled concession certificate to the prescribed medical hospitals <br/> The link to the concession certificate is given <a href='https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Passenger_Information_2018/Concession%20Certificate.pdf' >here</a><br/>For PWD: Online<br/> Railway concession card needs to be issued for booking tickets online through irctc.co.in. Procedure for the same is as follows<ol><li>Visit the nearest Divisional Railway Manager’s Office with all the relevant documents given below in original as well as self-attested photocopies</li><li>Concession Certificate or Unique Disability ID (UDID) Card</li><li>Identity Proof (e.g. Aadhaar Card)</li><li>Date of Birth Proof (Any government issued ID)</li><li>Address Proof  (Any government issued ID)</li><li>Passport size color photo</li><li>Attested photocopies of these documents.</li><li>Submit the application for issue of Railway Identity Card for Physically Challenged Persons for Ticketing to the Senior Divisional Commercial Manager (Sr. DCM) </li><li>Collect the card from the D.R.M Office upon verification</li><li>The railway photo identity card will have a 11 digit identification number which will be used for any subsequent booking online and offline</li></ol><br/>For Patients: Offline <br/><li>The concessional tickets can only be booked over the counter and not online</li><li>Two different forms for outward and return journey need to be submitted</li><li>The form for outward journey can be found on the link below: http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Onward.pdf</li><li>The form for return journey can be found on the link:  http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Returns.pdf</li><li>The concession would be provided after the ticket booking authority verifies the duly filled form, by Hospital authorities.</li>"
+      "applicationProcess": "For PWD: Offline Submit the duly filled concession certificate to the prescribed medical hospitals <br/> The link to the concession certificate is given <a target='_blank' href='https://indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Passenger_Information_2018/Concession%20Certificate.pdf' >here</a><br/>For PWD: Online<br/> Railway concession card needs to be issued for booking tickets online through irctc.co.in. Procedure for the same is as follows<ol><li>Visit the nearest Divisional Railway Manager’s Office with all the relevant documents given below in original as well as self-attested photocopies</li><li>Concession Certificate or Unique Disability ID (UDID) Card</li><li>Identity Proof (e.g. Aadhaar Card)</li><li>Date of Birth Proof (Any government issued ID)</li><li>Address Proof  (Any government issued ID)</li><li>Passport size color photo</li><li>Attested photocopies of these documents.</li><li>Submit the application for issue of Railway Identity Card for Physically Challenged Persons for Ticketing to the Senior Divisional Commercial Manager (Sr. DCM) </li><li>Collect the card from the D.R.M Office upon verification</li><li>The railway photo identity card will have a 11 digit identification number which will be used for any subsequent booking online and offline</li></ol><br/>For Patients: Offline <br/><li>The concessional tickets can only be booked over the counter and not online</li><li>Two different forms for outward and return journey need to be submitted</li><li>The form for outward journey can be found on the link below: http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Onward.pdf</li><li>The form for return journey can be found on the link:  http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Concession_Certificate_Patients_Returns.pdf</li><li>The concession would be provided after the ticket booking authority verifies the duly filled form, by Hospital authorities.</li>"
     },
     {
       "id": 22,

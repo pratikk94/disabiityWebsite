@@ -72,6 +72,9 @@ function Home() {
               padding: "1%",
               borderRadius: "10px",
               fontSize: "2.5vh",
+              background: "#FFF",
+              boxShadow:
+                "0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)",
             }}
           >
             Search

@@ -22,7 +22,10 @@ export default function DisabilityBar() {
             justifyContent: "center",
           }}
         >
-          <a href="https://drive.google.com/drive/folders/1FhyfR_BivDbBuTBzBUDWAAhemc2cmc12">
+          <a
+            target="_blank"
+            href="https://drive.google.com/drive/folders/1FhyfR_BivDbBuTBzBUDWAAhemc2cmc12"
+          >
             Audio book here
           </a>
         </p>
