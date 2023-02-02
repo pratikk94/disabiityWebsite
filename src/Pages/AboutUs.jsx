@@ -57,7 +57,13 @@ export default function AboutUs() {
             dissemination and protection of rights of children with special
             needs.
           </p>
-          <p style={{ textAlign: "left", fontSize: "24px" }}>
+          <p
+            style={{
+              textAlign: "left",
+              fontSize: "24px",
+              marginBottom: "50px",
+            }}
+          >
             For terms and conditions :
             <a
               style={{}}
