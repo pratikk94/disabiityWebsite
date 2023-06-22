@@ -152,7 +152,7 @@ function Resources() {
                     target="_blank"
                     href="https://drive.google.com/file/d/11R3ZhbgLcZ28_ilNnaduYB6F9IRra73S/view?usp=sharing"
                   >
-                    Inclusivity Handbook
+                    A guide to inclusive education for Teachers and Principals
                   </a>{" "}
                 </li>
               </ul>
