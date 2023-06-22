@@ -144,6 +144,19 @@ function Resources() {
                 </li>
               </ul>
             </li>
+            <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
+              <strong>Supporting children with special needs</strong>
+              <ul>
+                <li style={{ lineHeight: "24px", margin: "10px 20px" }}>
+                  <a
+                    target="_blank"
+                    href="https://drive.google.com/file/d/11R3ZhbgLcZ28_ilNnaduYB6F9IRra73S/view?usp=sharing"
+                  >
+                    Inclusivity Handbook
+                  </a>{" "}
+                </li>
+              </ul>
+            </li>
           </ol>
           <a
             target="_blank"
